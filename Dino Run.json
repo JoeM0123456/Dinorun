@@ -3224,6 +3224,4760 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Boxes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Boxes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/fd10c2c4e94ab86798d93afd8d9a27500e484af6f01881f2d6b2567ca6ae82f2_Boxes.png",
+          "name": "Boxes.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Barrel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Barrel.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/c7ec3b97c1fe9aaa3d26e8809b947080aa95c37bc76f041879c8d3747fc95251_Barrel.png",
+          "name": "Barrel.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Computer 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/7d43dd58d359bc5c51ce73a00a16c06a2cfc6089e146af904e1f839f95c273e7_Computer 1.png",
+          "name": "Computer 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Computer 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer 3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/208137da1226db6e57f899aa21844f25a5cb30419d1e16f95245552504cba083_Computer 3.png",
+          "name": "Computer 3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Vat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Vat.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/0090bc2fb55518693d73afc4de80945aa17bec0a82444f47e193593c5f3e4f6a_Vat.png",
+          "name": "Vat.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/30619f9dbf8e5da391f6dde5478da0823eb821fe9fbf57847469681b5f4ab08f_Droid 1_Death_1.png",
+          "name": "Droid 1_Death_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ef139aa63cd782841d2194a13b3b618b56461732aa001169ef804742c35e86fe_Droid 1_Death_2.png",
+          "name": "Droid 1_Death_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/e4612f462ffd7bd166e5b86cc5a3af6509e16c987cde48551b4bdf957f10b85b_Droid 1_Death_3.png",
+          "name": "Droid 1_Death_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/5c30f4a1d43d623d1b93182cd3e7c29c4bce61b776626847bd7bc6865aa37053_Droid 1_Death_4.png",
+          "name": "Droid 1_Death_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/5f889ae8c1f37166198595f2e1f77efa85510c3ea5e0d0f38f8ae0220cfc72b4_Droid 1_Death_5.png",
+          "name": "Droid 1_Death_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2992da4e39068b34b46988fb7c3ababce471e53279306cbc1800e26ad750a524_Droid 1_Death_6.png",
+          "name": "Droid 1_Death_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/69574f98c8148a1ce32885dd00bc30e2df7da48411a56ce7130c2ac151e3e584_Droid 1_Death_7.png",
+          "name": "Droid 1_Death_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Death_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a8b07002a37c9b3773d94edd357b22e74e9f8161befa31965377d7eae29256c8_Droid 1_Death_8.png",
+          "name": "Droid 1_Death_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/753e1729521026ecbd6d5bfcaeb49bac6303b534a364dede60db59ddfb6fc3e7_Droid 1_Hurt_1.png",
+          "name": "Droid 1_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0eddd00eb6110e81d113626f3ed1d1d0c6c5d5044507ed05e111b9a417c64d4f_Droid 1_Hurt_2.png",
+          "name": "Droid 1_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/950a4d207aed7a7000ee2fe636e78c27d96ddafd986c1cb2ed655e337a489d67_Droid 1_Hurt_3.png",
+          "name": "Droid 1_Hurt_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/30619f9dbf8e5da391f6dde5478da0823eb821fe9fbf57847469681b5f4ab08f_Droid 1_Idle_1.png",
+          "name": "Droid 1_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1d1a43595da91abd77f9a4a73657c5478457f1bd132bdabb9127114ca8f627cd_Droid 1_Idle_2.png",
+          "name": "Droid 1_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2f9e6d107d2a6470f5b85ebefa65d3ba3f59a20f32c2d377aad24c9ff7271621_Droid 1_Idle_3.png",
+          "name": "Droid 1_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/02f7a9524707a67e9107d092daf8fa4520e1eeafe86f497ab7c7e2ac522cc0e0_Droid 1_Idle_4.png",
+          "name": "Droid 1_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Move_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Move_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2b5f74d66007fa1446d47a81ae098598b8cfb148efaa1b3c4fa58b7f0bd18be4_Droid 1_Move_1.png",
+          "name": "Droid 1_Move_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Move_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Move_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/d31f06adfa7311ad4a593bb9e2fea093ca2aced78288fb3e5f63b8f6161c64c9_Droid 1_Move_2.png",
+          "name": "Droid 1_Move_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Move_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Move_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/494d13b386f3801c012f0baea0b3f01d8783752cfa864edd9e85d2afb74181a5_Droid 1_Move_3.png",
+          "name": "Droid 1_Move_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Move_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Move_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8ad3cbdd738d5f10558d4e0c39cf3d57a55657c0b786c498e8ca534d2d9690b8_Droid 1_Move_4.png",
+          "name": "Droid 1_Move_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Self Destruct_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Self Destruct_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/f5d14d76e6fe12e6fb4893da6522d39c46a4984cc1eb5aac5b671242af04c3ba_Droid 1_Self Destruct_1.png",
+          "name": "Droid 1_Self Destruct_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Self Destruct_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Self Destruct_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/d56c1f9822bd28f26ed3ce16a2d7f09d440c0e407203d811743403bdc8ec8778_Droid 1_Self Destruct_2.png",
+          "name": "Droid 1_Self Destruct_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Self Destruct_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Self Destruct_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2c46164cae750f5c647f925b3d146ce0d71348d732376cebf992bc084817529d_Droid 1_Self Destruct_3.png",
+          "name": "Droid 1_Self Destruct_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Self Destruct_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Self Destruct_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2657bad3af203517a8abd996931eee94c51e0a1effc49e5ba5a046aa44301901_Droid 1_Self Destruct_4.png",
+          "name": "Droid 1_Self Destruct_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8a488f29e75564aeaa9bfe5f68479408e4e0a7f880d84febafe984d3a27b18ad_Droid 1_Shoot_1.png",
+          "name": "Droid 1_Shoot_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/982d1603918e8b2bc5e4043abdec10d50e0d0e80b1513f5118a83852d2ac3655_Droid 1_Shoot_10.png",
+          "name": "Droid 1_Shoot_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0846098d7d04194a3f3796884761b9075cba554ad987c0ac82d6f2fdfce60b36_Droid 1_Shoot_11.png",
+          "name": "Droid 1_Shoot_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7156ff51ad1818cd6ae92d9f79b70ee36fa53683994062b82f34a0db75a81771_Droid 1_Shoot_12.png",
+          "name": "Droid 1_Shoot_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/545b2bd47e4bf58b3fcc2a57461b57388cf77d600a451e4877c23ff8831b705e_Droid 1_Shoot_2.png",
+          "name": "Droid 1_Shoot_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a6f2c6a2714e561972febb86405b2e412ab4f524985fa819d6df06df6249f67e_Droid 1_Shoot_3.png",
+          "name": "Droid 1_Shoot_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7fdd0555abb35abc9c599fe0f30cf4a2b9013941544997c6d60077ebbacc2cbc_Droid 1_Shoot_4.png",
+          "name": "Droid 1_Shoot_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/53a48b6d59755c5c88c6e6327bca3f71d7b276cf00e036935bef83b12977d891_Droid 1_Shoot_5.png",
+          "name": "Droid 1_Shoot_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/5c945521e06e6cb12be38d62c6548c3855a1707d6e9b78353805a77b53b40def_Droid 1_Shoot_6.png",
+          "name": "Droid 1_Shoot_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/3bad8549704238fb7dbe212758b17a3e50e73cda75056a1d4363da3306e13fc2_Droid 1_Shoot_7.png",
+          "name": "Droid 1_Shoot_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/61b3cd85e1bea4b86a8aed83c6c1e60d5f5d2f010a1e8f8fffbb90591601bacc_Droid 1_Shoot_8.png",
+          "name": "Droid 1_Shoot_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1_Shoot_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1_Shoot_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/6f9bf13b9fab56fc4bbf07d0d89fc980e5ebdef427a462706501e642399fdff6_Droid 1_Shoot_9.png",
+          "name": "Droid 1_Shoot_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/6d925de0a6ff0b50e45bb99401dbeb428108a17f98d0e904786a8f87a6349ee6_Droid 2_Attack_1.png",
+          "name": "Droid 2_Attack_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/f596d4bf2a06cb0b71be6c7ae0e46f764b887415d9f944ab04c095ccc37ad9e9_Droid 2_Attack_2.png",
+          "name": "Droid 2_Attack_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/18c89b9a5ca9941a3229c0a187dc340442f069d741d2edc0176063d7cf2f6d75_Droid 2_Attack_3.png",
+          "name": "Droid 2_Attack_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/103e8cb04771f9579a2d71a3d13a5f3bc17fc7b0d1eabcdf47e713e4758fa40b_Droid 2_Attack_4.png",
+          "name": "Droid 2_Attack_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/55eb1a5f0aaff2a86c3e3336db36fa6100b9da0c3f42a39f09a2e2d3ec9f94e9_Droid 2_Attack_5.png",
+          "name": "Droid 2_Attack_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/9a5b407896abac4d05fe2cdede3e1b550ded0cb07cc15f11c524f4e85e362b3a_Droid 2_Attack_6.png",
+          "name": "Droid 2_Attack_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Attack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Attack_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/479dc90ab2d5333e6345f1e45f5223baa2ba829fab01e3fc7de1e888ec473f70_Droid 2_Attack_7.png",
+          "name": "Droid 2_Attack_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Count Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Count Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1f47adf56a45b2739b620abde30aeddcd1ae6decca4d3d776a31417be7a2ed75_Droid 2_Count Down_1.png",
+          "name": "Droid 2_Count Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Count Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Count Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ff3a92d58e6e6c782b8ff3159154e4088e8b85f7fd9d4a36d22df266f6181e61_Droid 2_Count Down_2.png",
+          "name": "Droid 2_Count Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Count Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Count Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/18315da6b757beb972d2a5f0adb6dd685e23f76d513fe7f764e3e1f7064712e3_Droid 2_Count Down_3.png",
+          "name": "Droid 2_Count Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Count Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Count Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/f1da301b76679bc5fc286d714fa40ce5426e71ea8c1e829cff5c05d23cc3648e_Droid 2_Count Down_4.png",
+          "name": "Droid 2_Count Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/d2c1143826f38179ead2bdae198bb21f11d27538a43017c416df0c30d5388d58_Droid 2_Death_1.png",
+          "name": "Droid 2_Death_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/6ce72048147ef8fd242fae97a55ae687d45ecc278c719c46990089ba1ff0fe19_Droid 2_Death_10.png",
+          "name": "Droid 2_Death_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fd4a143c599e79c59d1ca358e721f65b4e7fd47bb96371e3ff331415ab2b3043_Droid 2_Death_11.png",
+          "name": "Droid 2_Death_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1cc1a134b8fbe8683e3e459a13cd002403ac2a8a3a34c7a9f66862dfaaaf8d07_Droid 2_Death_12.png",
+          "name": "Droid 2_Death_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/84529ba001bdc47c4f62745c78d47bef661769922b8f1e41dd0bd36f278aedc7_Droid 2_Death_2.png",
+          "name": "Droid 2_Death_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/f361c15cce49e3c94ddc13bd1bb6e73e65c97abb4628956397fc886d2afdd639_Droid 2_Death_3.png",
+          "name": "Droid 2_Death_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fe4f89c9fd7f18b3612bb15ebf29bec4b9457a2c40b672db4ec2f53743c1d4fd_Droid 2_Death_4.png",
+          "name": "Droid 2_Death_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/bccd6bc2dddc2814636ddcb392573567f4f10bd4e779fc2bf26469e8823bf14b_Droid 2_Death_5.png",
+          "name": "Droid 2_Death_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2e50f6110bde7e1121b63d7549e5123d636777e03aa9875c5315d1b5612a702e_Droid 2_Death_6.png",
+          "name": "Droid 2_Death_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a1c40a396b2c8ad052e259bea6b12ad3132ba1b1152799afc3e7679625b84d72_Droid 2_Death_7.png",
+          "name": "Droid 2_Death_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/368fa5f51b642bfff3135077e8637011d4715dc7ccaaed852483163a221e99b3_Droid 2_Death_8.png",
+          "name": "Droid 2_Death_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Death_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7cbe749221ee33a8aae613206a83dc862a7b1a6b48adaeb87fb96417ac721367_Droid 2_Death_9.png",
+          "name": "Droid 2_Death_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a903de35c52770d9a92e352761c64867da592ceea67463fee4caa70a5d1dcbb8_Droid 2_Hurt_1.png",
+          "name": "Droid 2_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a70dce07c771dcc61f52167637169bb1117a244d8340673967122e3e5e756445_Droid 2_Hurt_2.png",
+          "name": "Droid 2_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a70dce07c771dcc61f52167637169bb1117a244d8340673967122e3e5e756445_Droid 2_Hurt_3.png",
+          "name": "Droid 2_Hurt_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Hurt_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/10a0499415f6016f33d045e4edd93dcd3a7f1d6920b651ee8b9ca765199814fd_Droid 2_Hurt_4.png",
+          "name": "Droid 2_Hurt_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/d2c1143826f38179ead2bdae198bb21f11d27538a43017c416df0c30d5388d58_Droid 2_Idle_1.png",
+          "name": "Droid 2_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/942a1e504457fcbbc3c1b2cd9c323031b56430a5473557aabb8c4d12084f8550_Droid 2_Idle_2.png",
+          "name": "Droid 2_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/e154d9199d366c83f3b507830eeb143a0c7cd04e10e2777c15e72d703e2ce344_Droid 2_Idle_3.png",
+          "name": "Droid 2_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fa1869226f91fa2da13f75f62b8a9be968ae122781799288d12e2a3ceb044717_Droid 2_Idle_4.png",
+          "name": "Droid 2_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Move_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Move_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/9132dcdff3d3b67cc372b1f62dc67f278fe978b66b91acc47a496b051b0afa55_Droid 2_Move_1.png",
+          "name": "Droid 2_Move_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Move_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Move_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/5295bdeef8771a3bb3a61629087e1a4ffb29dc784af5c28e6dfe4480b7d350d3_Droid 2_Move_2.png",
+          "name": "Droid 2_Move_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Move_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Move_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/c62deb9f37b6908bae936024cdfa35af114ae3deb2f0f4b9c712892a32f8e90f_Droid 2_Move_3.png",
+          "name": "Droid 2_Move_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 2_Move_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 2_Move_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/cc0688a02fe1397ac38f40851bf6bc80c8719e58ae5de3223343aec92e7f4f0e_Droid 2_Move_4.png",
+          "name": "Droid 2_Move_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8f4575dcd51ebd9fba1c89299516465ea309b2546b815cd85dcc2c5fc63f1960_Drone_Death Explosiont_1.png",
+          "name": "Drone_Death Explosiont_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/3e500d4b8aa8402a7a8230197c39e3c114ad1a5a1210af67645307f683057f21_Drone_Death Explosiont_10.png",
+          "name": "Drone_Death Explosiont_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0bcd7d22828f398dc99add58d4e2bd2fe800a07d6c95bc1df5fbf7f3fb402521_Drone_Death Explosiont_11.png",
+          "name": "Drone_Death Explosiont_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/b359fa93ef016d2221adecc693ae6f7bea6461bb60570ad3c58e75fc9e1ce072_Drone_Death Explosiont_12.png",
+          "name": "Drone_Death Explosiont_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ef35d3675fff9a417c1b8fbc05b6e7637eab1fffd68915d82d9a98b8eb1b2f74_Drone_Death Explosiont_2.png",
+          "name": "Drone_Death Explosiont_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1275fa06ffc9a1392680b0eae54c153b1f60f292bd95045c79a16f040181495a_Drone_Death Explosiont_3.png",
+          "name": "Drone_Death Explosiont_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0957b52c071f719c2971ea3f8e437c6acc0f659624fc7afa1ffd135e0e5680db_Drone_Death Explosiont_4.png",
+          "name": "Drone_Death Explosiont_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fd9bb9e5eaf945045de72b5eb69f8b5c4c0096f3fd7a7a05f2c6a59b58be296e_Drone_Death Explosiont_5.png",
+          "name": "Drone_Death Explosiont_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/4f9bb56e88615490adddd9c66ca15bbdc4a958a026880c5d7411276610c7f33e_Drone_Death Explosiont_6.png",
+          "name": "Drone_Death Explosiont_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/212302e4c474af5666899374e561bb7e8cbbcc5cf8bec153fa4dd02e4a5fd14c_Drone_Death Explosiont_7.png",
+          "name": "Drone_Death Explosiont_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a123d538ad319d1ca54d3c1c6ca568acd41b393cf0af8d44008e8d7644da4b1f_Drone_Death Explosiont_8.png",
+          "name": "Drone_Death Explosiont_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Death Explosiont_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Death Explosiont_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/aa40d7fbb8634a6275da31e5c9c220921460effd2beea88495203ae6d33ab346_Drone_Death Explosiont_9.png",
+          "name": "Drone_Death Explosiont_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1275fa06ffc9a1392680b0eae54c153b1f60f292bd95045c79a16f040181495a_Drone_Hurt_1.png",
+          "name": "Drone_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/54c95656406b8fa4c08c64e21ed5d42ecb7f44e6e48cdfcea623bae0e86aba68_Drone_Hurt_2.png",
+          "name": "Drone_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fc90999300e2277c92f5e6564d18162bd8e7a24947d552a036871b81d10b6565_Drone_Hurt_3.png",
+          "name": "Drone_Hurt_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Hurt_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8f4575dcd51ebd9fba1c89299516465ea309b2546b815cd85dcc2c5fc63f1960_Drone_Hurt_4.png",
+          "name": "Drone_Hurt_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/179099d858d0790d8acd08135c2db4ef62860580ff9f9f0b042d85b316d73ccc_Drone_Idle_1.png",
+          "name": "Drone_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/4b124dd0237265817df6f252efaad59d68a8a5dc7e20857f582650f2dcd3bd9e_Drone_Idle_2.png",
+          "name": "Drone_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a741bf25f41f2de754952a1c293fb9aea4b2bce9211cb1853171b13776ca1750_Drone_Idle_3.png",
+          "name": "Drone_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/5bfd7c37328d5c899cb6bd8e801bc597146620c246af2cab7f89ef15af92c6b5_Drone_Idle_4.png",
+          "name": "Drone_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/896dcda310b8304b116390f236f560368ec06419c0ec644e15650b1378b23f6f_Drone_Idle_5.png",
+          "name": "Drone_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/031f297e5a67f3a085e7eedfec19b4ff735f82f5c8e9405d6d5a4ae07119e8fe_Drone_Idle_6.png",
+          "name": "Drone_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/19681bbc0b5e767a0e301209388f4f45036558fb0a8fbdd91b822b39d9d49f1a_Drone_Idle_7.png",
+          "name": "Drone_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a9ac5822805567ff63c29cba0152b9989038b9a2fa4130f67d891622d1b65414_Drone_Idle_8.png",
+          "name": "Drone_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ea900bb8ca779f76d4ba07c42ac45a7a5d4a1b09fec9c2b7ae79975c6d2e6e7a_Drone_Run_1.png",
+          "name": "Drone_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7c5cb728600349683d16262652ce71f8645a6a20d2e148b755d78fbb9ea803f0_Drone_Run_10.png",
+          "name": "Drone_Run_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/33c75d50b5b8f3f3d85d2d74ba1f540a08e3a9a7ec2cab9a7ab52e342cfcb63d_Drone_Run_2.png",
+          "name": "Drone_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/cffef8a211996279027ede08f7fa7d2aba28b5766b93053c6ad8227167695f2d_Drone_Run_3.png",
+          "name": "Drone_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/73f1982d78cde548685de468e52e200cf0c3c746b683913b133dc62a45ac8b44_Drone_Run_4.png",
+          "name": "Drone_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/121abfad8f3c4ddf42616e896f2863f5dec42e210a91f6a94ee9e95d33b7cade_Drone_Run_5.png",
+          "name": "Drone_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7f3bb5cf7e4bcfd654b63b48c80538ca54d03d5410f52dd93780516962f3fab9_Drone_Run_6.png",
+          "name": "Drone_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8fe54a47d3e7516b5277d551673d8d88cb4dec48fd2febabf6858f1c171312b1_Drone_Run_7.png",
+          "name": "Drone_Run_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/216ad45f35caf99d223499054b1e705b6cbba4b55b80a759d519e90d278d1e66_Drone_Run_8.png",
+          "name": "Drone_Run_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Drone_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Drone_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8fe54a47d3e7516b5277d551673d8d88cb4dec48fd2febabf6858f1c171312b1_Drone_Run_9.png",
+          "name": "Drone_Run_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/baf06bc09edc1ca831dced5393ffb329a4781e21931deb383189f3acc7dd6f79_Droid 3_Attack_1.png",
+          "name": "Droid 3_Attack_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1cd1b5589ced1177e5e8285f36186f8ff8b702a34f862af5895de544852b763c_Droid 3_Attack_2.png",
+          "name": "Droid 3_Attack_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1cd1b5589ced1177e5e8285f36186f8ff8b702a34f862af5895de544852b763c_Droid 3_Attack_3.png",
+          "name": "Droid 3_Attack_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0c47e6c69c746a561c29f5fe3e1def9246b7eb31ba30904d3aba58faa754eca0_Droid 3_Attack_4.png",
+          "name": "Droid 3_Attack_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/0c47e6c69c746a561c29f5fe3e1def9246b7eb31ba30904d3aba58faa754eca0_Droid 3_Attack_5.png",
+          "name": "Droid 3_Attack_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2a56009e38a01861a27b62d1440be063618e26d82e90ecb0f9310bc5c17a5566_Droid 3_Attack_6.png",
+          "name": "Droid 3_Attack_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a113ad0f2210e6e25d7dd1da90fd01a76e673d2a9b115d3b275eb527f8d3fd4d_Droid 3_Attack_7.png",
+          "name": "Droid 3_Attack_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7b818796e9fc5b2bf410afc8f18cb1de9b2af941f0ad2262293d341aa736493e_Droid 3_Attack_8.png",
+          "name": "Droid 3_Attack_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Attack_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Attack_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/e0d430c8d409383cadd61c3f4fc5563ad95836f6cc0dd26c1f136efaf744e841_Droid 3_Attack_9.png",
+          "name": "Droid 3_Attack_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Countdown_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Countdown_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7977b01747912983697d36e4e063a86eaa30f61ed72e81396aaad5070a6da728_Droid 3_Countdown_1.png",
+          "name": "Droid 3_Countdown_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Countdown_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Countdown_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7977b01747912983697d36e4e063a86eaa30f61ed72e81396aaad5070a6da728_Droid 3_Countdown_2.png",
+          "name": "Droid 3_Countdown_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Countdown_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Countdown_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/457ec3334266cb56711d52bfedd39b146009c50f3610949141e7157b578647f7_Droid 3_Countdown_3.png",
+          "name": "Droid 3_Countdown_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Countdown_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Countdown_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/457ec3334266cb56711d52bfedd39b146009c50f3610949141e7157b578647f7_Droid 3_Countdown_4.png",
+          "name": "Droid 3_Countdown_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/baf06bc09edc1ca831dced5393ffb329a4781e21931deb383189f3acc7dd6f79_Droid 3_Death_1.png",
+          "name": "Droid 3_Death_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ea584855dd5b3c19f802e85560d8fc9502e6c9919fbabe539e3a1e1940302f79_Droid 3_Death_10.png",
+          "name": "Droid 3_Death_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/b3af598fcf59f606b7c65d25a0372c1eacc480cecc7cac37c2e6a62141347224_Droid 3_Death_2.png",
+          "name": "Droid 3_Death_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/b3af598fcf59f606b7c65d25a0372c1eacc480cecc7cac37c2e6a62141347224_Droid 3_Death_3.png",
+          "name": "Droid 3_Death_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/554fdb6a5f170e3f19f2026b8616b4dc2a451457221744c00e5d576fa33b7b8e_Droid 3_Death_4.png",
+          "name": "Droid 3_Death_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/554fdb6a5f170e3f19f2026b8616b4dc2a451457221744c00e5d576fa33b7b8e_Droid 3_Death_5.png",
+          "name": "Droid 3_Death_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/8533ffedd95eb7d7e1cb57c704fd39cdea554c124a8ef880d3dc8e2d7673fa58_Droid 3_Death_6.png",
+          "name": "Droid 3_Death_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/6143d266959f288c00f2a6bd7ed3d61c2f38738ac33b0268c8f2464fac239795_Droid 3_Death_7.png",
+          "name": "Droid 3_Death_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/19add602c2c5e1976022884d80b8c9d2b7127f54ecfa41390a50c5866df0759d_Droid 3_Death_8.png",
+          "name": "Droid 3_Death_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Death_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1d684890c274d701df3d5a73bad998898854413ccaaee2531791d582f631d88a_Droid 3_Death_9.png",
+          "name": "Droid 3_Death_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/343aad30e09d14388c353a59df5382eba5554887a491017eab366ad4435b2a9d_Droid 3_Hurt_1.png",
+          "name": "Droid 3_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ed70013ed24852c9d68a4fa6e8276ec55be66a3f5e469d2e4d1fe3d7bcb117de_Droid 3_Hurt_2.png",
+          "name": "Droid 3_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Hurt_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/c1510300fe7b2d43c5476e8ee8e0877f09c219b7e1368ef88cc3698cb44c11e8_Droid 3_Hurt_3.png",
+          "name": "Droid 3_Hurt_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Hurt_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/ed70013ed24852c9d68a4fa6e8276ec55be66a3f5e469d2e4d1fe3d7bcb117de_Droid 3_Hurt_4.png",
+          "name": "Droid 3_Hurt_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/baf06bc09edc1ca831dced5393ffb329a4781e21931deb383189f3acc7dd6f79_Droid 3_Idle_1.png",
+          "name": "Droid 3_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/2a56009e38a01861a27b62d1440be063618e26d82e90ecb0f9310bc5c17a5566_Droid 3_Idle_2.png",
+          "name": "Droid 3_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/fad30dec6ca268cf3265e8ab8d6e25139738cc04311ca0ecae89809e862d23a4_Droid 3_Idle_3.png",
+          "name": "Droid 3_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/a82525fb21d12a78e560acff5e7d7d7459891b104c9d5906f320eb16fcd1ec62_Droid 3_Idle_4.png",
+          "name": "Droid 3_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/38c1efff9af5c30c19a075c76a8122d994d074c1afe4e44093dad7e8e55dc552_Droid 3_Move_1.png",
+          "name": "Droid 3_Move_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/7070d565a341dc617bf76d8784dfb81ceba8cd3928ff9e81fb76804b88f3b207_Droid 3_Move_2.png",
+          "name": "Droid 3_Move_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/4443cd51e294d837de9b12abf07758bb2b884bb31743524e0aa95a57ffea8750_Droid 3_Move_3.png",
+          "name": "Droid 3_Move_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/3a01d95aa849ea42b5f728f1ba45e22abf95d78732d0a5a4bf0c0ea8cb6da70a_Droid 3_Move_4.png",
+          "name": "Droid 3_Move_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/1a6135d85a7a82a8f854ffb4bff890e82721e386f0824e12aa52512217fa3333_Droid 3_Move_5.png",
+          "name": "Droid 3_Move_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/840dbd8ae14c99ce9eb3fe4ae41de8e913fb18e6e0b3f500733e435ed0999f6a_Droid 3_Move_6.png",
+          "name": "Droid 3_Move_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/93801fa84c4872e23805d374b061ed5c9243b1525b92f9d6418fd7fedfbea4da_Droid 3_Move_7.png",
+          "name": "Droid 3_Move_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3_Move_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3_Move_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Character/080baf6a2a4a456318198d0e312f424932e6b90b3786f7831af9fdf689e31256_Droid 3_Move_8.png",
+          "name": "Droid 3_Move_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/235623c829963f58ef6a5daef4b228a1b3fa47c90fa84a6e1e3eb773c2bc7622_Percy_AerialShootingFireball_1.png",
+          "name": "Percy_AerialShootingFireball_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/43f15cc0e06fe9068e225ddfbec81add7af343d33811fda5cec37d91660e33de_Percy_AerialShootingFireball_2.png",
+          "name": "Percy_AerialShootingFireball_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bad8875383165bdce4c1b260852a25bd96c3f90fa50b58615381c92712458f40_Percy_AerialShootingFireball_3.png",
+          "name": "Percy_AerialShootingFireball_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dae66ce4f68144c06abcffa8c801586510c9e6de1c4c8845be859d1f1f5c54cb_Percy_AerialShootingFireball_4.png",
+          "name": "Percy_AerialShootingFireball_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_AerialShootingFireball_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_AerialShootingFireball_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/56596f8deb5f97e5e16d5f485a0f6dc7c60a145b1b0fe4abea8df6fd9cf173a0_Percy_AerialShootingFireball_5.png",
+          "name": "Percy_AerialShootingFireball_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5a7dbd0fe8570b84b83a2474bd558e3046fbca9049a4bf7c6cd002cd098ad879_Percy_Falling.png",
+          "name": "Percy_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dcb7091bde17b2026c2282c051d8a088b1f55388a2bd52987e04f7bfa440ef3b_Percy_Hurt.png",
+          "name": "Percy_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_Idle_1.png",
+          "name": "Percy_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aa38a4a49fa8b9289b937cf2616a665fd04fcfd3d4e1c696f8a62c63195bea51_Percy_Idle_2.png",
+          "name": "Percy_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2d9460b504bfd1773fbaa5f6ade33bdb356f859fdf9df69ffedddf88b85b5267_Percy_Idle_3.png",
+          "name": "Percy_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a24b950d25aca21a87012b959ad294bfd43d048a95a00bf284ebae87d7840a9e_Percy_Idle_4.png",
+          "name": "Percy_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/161e067e0c5a6c531616411f17a2b508e5148e43880e0d7eba548057d0412a01_Percy_Idle_5.png",
+          "name": "Percy_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/184bac6ce669ba92a5f6f7c8c799efe716ccf8636652c4f443cf4c6eb021caf0_Percy_Idle_6.png",
+          "name": "Percy_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ed98462100522856d63afe22363e3109eead33f0a76f2fc093979fe126fa7f25_Percy_Idle_7.png",
+          "name": "Percy_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4b620a7244583f45dbf98b9dcd3b73a39bf1dbc5cdb5abb6f602d3cd21b8a6c6_Percy_Idle_8.png",
+          "name": "Percy_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90f37e791851aa5bdad7999c4923e0f639ecb412d3b51c911f610d1b8e60ca89_Percy_Idle_9.png",
+          "name": "Percy_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0f8a3d548656d64f7ff90d29f32d3da4467d362073725f0a4c052ca5fa27def9_Percy_Jump.png",
+          "name": "Percy_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Landing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Landing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/21e75357a3c1f3b53626a8149ecdb3291b9999c1c1087e4166cde452f48ad2f3_Percy_Landing_1.png",
+          "name": "Percy_Landing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Landing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Landing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aa27ac515e6fbecdb8367c143cccfc17dc77fd8bb575b4d4dcc7271c27d287ab_Percy_Landing_2.png",
+          "name": "Percy_Landing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/7269cad8a305abdfa2dfd317d0565f71dbb239eee01f588724ea3e605d682e74_Percy_Running_1.png",
+          "name": "Percy_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2c536734dc084e501e25ef060f0024ff5669a7ce86fb638af11bfab4bc7950d6_Percy_Running_2.png",
+          "name": "Percy_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/2394df8016e28f5dea6c1156b12d75bbbfdb17d22b270f8776516e91eeb124d0_Percy_Running_3.png",
+          "name": "Percy_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6f57a45a5502fbd12605ce7db2113169ca62f815990d2301d6bfec6e66b23596_Percy_Running_4.png",
+          "name": "Percy_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/326a451b0b3cce07d47a5727e152f7f0ce15bac06a8f887583d35f3bc25be643_Percy_Running_5.png",
+          "name": "Percy_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_Running_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a779f9d3d570e2d452e2c0dd909bd50e6cefc328771636ac16f37fcdb4955908_Percy_Running_6.png",
+          "name": "Percy_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_ShootingFireball_1.png",
+          "name": "Percy_ShootingFireball_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/625fa8d5bb07bb4fdca2869563786428b7a6ef532bf46ff75b26d6bb35a6d0e8_Percy_ShootingFireball_2.png",
+          "name": "Percy_ShootingFireball_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e20886b24130ebdab97fa1985cda643ec9ad627a6242b86a9b630132100ec062_Percy_ShootingFireball_3.png",
+          "name": "Percy_ShootingFireball_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b2c9de5fa51606a71a098c44288015f7339060bef13ad10b98adb7c4a9afcee8_Percy_ShootingFireball_4.png",
+          "name": "Percy_ShootingFireball_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6388ad0a110601fa6b80dd15ee45b54d5d88c453b6c8f96b2a066a8819dbf350_Percy_ShootingFireball_5.png",
+          "name": "Percy_ShootingFireball_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aee5c297e116951bd1184f836d531e86310290517c055b9bf4428d7eeabdb061_Percy_ShootingFireball_6.png",
+          "name": "Percy_ShootingFireball_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a923e7ac90cd5666f5d3590707727f8ef495b27edbe2259a2b4b45aa657c61f5_Percy_ShootingFireball_7.png",
+          "name": "Percy_ShootingFireball_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_ShootingFireball_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_ShootingFireball_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/66b1ee8f27792fba727efbb5024e919f5fcb4954e5c1cdcb69577b33118187eb_Percy_ShootingFireball_8.png",
+          "name": "Percy_ShootingFireball_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/90d055aeeee72e765c057144e37d434434cd7e42756de6e8a93239a094ec712a_Percy_TailWhip_1.png",
+          "name": "Percy_TailWhip_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c7556638d699b25046d86047a1eec3f4c6e61aa39f3df959e84773af848c216f_Percy_TailWhip_2.png",
+          "name": "Percy_TailWhip_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a39f3b78821a603ccc4322c2ddb7c2389cd887c5a4264159716e3c2e7643cd2e_Percy_TailWhip_3.png",
+          "name": "Percy_TailWhip_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d26c42d79b42f0ecf31a241f248a23d879c52e7496b499a4d1bf7209975f63f2_Percy_TailWhip_4.png",
+          "name": "Percy_TailWhip_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/dec5596cc852daec3c97b5b3c7514147c72497d0d57cf25a03acc1d739b9bbf7_Percy_TailWhip_5.png",
+          "name": "Percy_TailWhip_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9e627828c03427caadae0f81d0497cd8a423aac0299f5096085b98556a32733f_Percy_TailWhip_6.png",
+          "name": "Percy_TailWhip_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/18a35cf9fd832de2a4297fac29733e0786448ebe248c6b3392f494e6ab4dd705_Percy_TailWhip_7.png",
+          "name": "Percy_TailWhip_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6a9153dd4c92073f47296eff0b2af78529f0f92f6f562619af42c3068ef6e67d_Percy_TailWhip_8.png",
+          "name": "Percy_TailWhip_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Percy_TailWhip_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Percy_TailWhip_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/56fc561da3da9ce492064947eda8092f77c3f7254f8065a790c44480b73a3353_Percy_TailWhip_9.png",
+          "name": "Percy_TailWhip_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Computer 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/ec04b333dc338208b26e442890dbc6fcd35c1b90143184275f9eeeae8857da8f_Computer 2.png",
+          "name": "Computer 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tileset Piece 55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tileset Piece 55.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/577487eaaf0fd4f9c7fcbc9319449e6898be40ff174416b047bd567aaa1a8647_tiled_Tileset Piece 55.png",
+          "name": "tiled_Tileset Piece 55.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Respawn.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Respawn.png\"}",
+        "name": "Respawn",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Barrels.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Barrels.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/e4c3b1d77bb3ab1a9d85f391cc68d00b3649875aa12a545ae56baadd46f0970b_Barrels.png",
+          "name": "Barrels.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/6af617b6a59c3ac99b48bfbae86ca3d0ed74c8e5abb65fc4b2126dd5cf0e55de_Control Panel_Deactivate_1.png",
+          "name": "Control Panel_Deactivate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/67eae2501cd84f5081397a7a5687b0f840ee20c1499f209258224ac31ac72aa3_Control Panel_Deactivate_10.png",
+          "name": "Control Panel_Deactivate_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/3601c204f92cf05b4c1737faad2a3b2cfe3af73082176100906ac3609fc4cbff_Control Panel_Deactivate_11.png",
+          "name": "Control Panel_Deactivate_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/9273231e47359d4faeeb95b2bffe630fd3eaea700497b4ca142aa4a2a0af7ca6_Control Panel_Deactivate_12.png",
+          "name": "Control Panel_Deactivate_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_13.png",
+          "name": "Control Panel_Deactivate_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_14.png",
+          "name": "Control Panel_Deactivate_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_15.png",
+          "name": "Control Panel_Deactivate_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0a46b6e1704522f79c219512f8f4edbeeb25ce147d5c9dbc0f7050040947e04d_Control Panel_Deactivate_16.png",
+          "name": "Control Panel_Deactivate_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/9273231e47359d4faeeb95b2bffe630fd3eaea700497b4ca142aa4a2a0af7ca6_Control Panel_Deactivate_17.png",
+          "name": "Control Panel_Deactivate_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/2c55e42503964381ae2134ff4ddffa65df361830306810b4bd86deb957f3ba5d_Control Panel_Deactivate_18.png",
+          "name": "Control Panel_Deactivate_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/2c55e42503964381ae2134ff4ddffa65df361830306810b4bd86deb957f3ba5d_Control Panel_Deactivate_19.png",
+          "name": "Control Panel_Deactivate_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d6046787505f7f0193d3618e631982a8e61729dabe8e4d5112acb5eb653ce7ae_Control Panel_Deactivate_2.png",
+          "name": "Control Panel_Deactivate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/bf9b6675dfed0a4e7c2a9b344985b4b86cda20cd3314916b60ab8d758a1f43c1_Control Panel_Deactivate_20.png",
+          "name": "Control Panel_Deactivate_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/3445fc993298d09a8e14c76b4572fd1e73ea1b7dce65c81178b877c6ac434d80_Control Panel_Deactivate_3.png",
+          "name": "Control Panel_Deactivate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e339ac2b839eaa98a2dcf4d4394003a75fc6c614b4769c1cfb9a7e236be49a45_Control Panel_Deactivate_4.png",
+          "name": "Control Panel_Deactivate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/76e9f54e6618309c6374621abb4ed4026a36f28dfa1069ead22ab10956c120dd_Control Panel_Deactivate_5.png",
+          "name": "Control Panel_Deactivate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/12daff03fcb64087bc8286d6eb25d329775f191351c72e83374cf721ee56ac23_Control Panel_Deactivate_6.png",
+          "name": "Control Panel_Deactivate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/29fce274137079cee89ecc1d3e04fe68a5a88291d8a2227ac8473eebe545a3fc_Control Panel_Deactivate_7.png",
+          "name": "Control Panel_Deactivate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/a16578483d3068acc1cc015faf85ba6e55265354b3df0547e75251863d0c1567_Control Panel_Deactivate_8.png",
+          "name": "Control Panel_Deactivate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e24c42cf96fdb772302cf11ff4394b7a788048788f5883aa6044d1351719ec78_Control Panel_Deactivate_9.png",
+          "name": "Control Panel_Deactivate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/84b87f600c3af2a50d1c33e52a19600bba97947f2efe6a9acd2d36f7daf1c888_Control Panel_Idle_1.png",
+          "name": "Control Panel_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/1a745b9985ff5549906059c9ec4df2a32599773eac682a324f783dec24c748d7_Control Panel_Idle_10.png",
+          "name": "Control Panel_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/dacc2a6ce064b747fc66f554385041f2131acf56c61455ad7cbd3ebfcf8d77db_Control Panel_Idle_11.png",
+          "name": "Control Panel_Idle_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/144c2da2e52e9fcc23c415e5a039cdba3e57ecdd73c5ef1b125697f9d57e67f7_Control Panel_Idle_12.png",
+          "name": "Control Panel_Idle_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/f39f988fa35da9c20d6363715069f4f94bd59762b4d9714926ff8705caf0e511_Control Panel_Idle_13.png",
+          "name": "Control Panel_Idle_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/f041cf40056393b2bc19c53b87da4a157ec4399a926b0e8dbcc78cbcae9a509d_Control Panel_Idle_14.png",
+          "name": "Control Panel_Idle_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bdc0cbc1b2c09f42315a332ea23ef2f1bbd4a7fd12842e487e3995d58968161_Control Panel_Idle_15.png",
+          "name": "Control Panel_Idle_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/ca93aad286cc80fb522a09d34818ce161ac03d4b82fae965f5e9159fe3b5ee59_Control Panel_Idle_16.png",
+          "name": "Control Panel_Idle_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bb00558864db9cfc1a3b414d502b1ef5496e42848a71b516bed23d921acfa6f_Control Panel_Idle_17.png",
+          "name": "Control Panel_Idle_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e6e91c2d8b7998e0db13de8eca7df4b3533ce9e2ccdb41091943cc33d5bb5333_Control Panel_Idle_18.png",
+          "name": "Control Panel_Idle_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bb00558864db9cfc1a3b414d502b1ef5496e42848a71b516bed23d921acfa6f_Control Panel_Idle_19.png",
+          "name": "Control Panel_Idle_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/379ca43773cf1e95ef6bd4ece68e5519cfe3dacc530f0f9a61d73b937efcbb24_Control Panel_Idle_2.png",
+          "name": "Control Panel_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/a5028257695c278ec33697aeff3496e263341d8c336b2f94c32dd72190f0de01_Control Panel_Idle_20.png",
+          "name": "Control Panel_Idle_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0ed05be186d6fc5b897563ac877684953507719f96b6c42a3cf9bc4e2d062187_Control Panel_Idle_3.png",
+          "name": "Control Panel_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0ed05be186d6fc5b897563ac877684953507719f96b6c42a3cf9bc4e2d062187_Control Panel_Idle_4.png",
+          "name": "Control Panel_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d42ccbd1dcb517df108c7689e4a7c5ba62f7ece8f73088bf1eafbad487a7def0_Control Panel_Idle_5.png",
+          "name": "Control Panel_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/957324b4f5a0be80b25fa9f88a23f9a789e68c267b46d05d4357297d4f651624_Control Panel_Idle_6.png",
+          "name": "Control Panel_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d66370007e0a24ec365f0bfe22f699f3124fcf3811bd538487236fe737e48d60_Control Panel_Idle_7.png",
+          "name": "Control Panel_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/285d7b645b0dcd5383be6fb687bf7e40f476dfa72fee7839e5a3feb915ed2ea3_Control Panel_Idle_8.png",
+          "name": "Control Panel_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/99706c68297f791da923f52fec513b2490b182954f3ab141b0f08cf052112c8e_Control Panel_Idle_9.png",
+          "name": "Control Panel_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Industrial spikes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Industrial spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/8653dd1f09a19bd4e20bea3eb4dc592fff5dd8d3ef8f3677ee77ca5203b26f01_tiled_Industrial spikes.png",
+          "name": "tiled_Industrial spikes.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a3be6261d38e6d7ce5b6e5fcf0dbf27150bced3517562e54835f31975ff35322_Laser Spikes_Activate_1.png",
+          "name": "Laser Spikes_Activate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/58a3f6b99c85e93762dd6c4441f2245281706d7ac852513994f6d692ca424c8e_Laser Spikes_Activate_10.png",
+          "name": "Laser Spikes_Activate_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/191421cf5591ff26a7525ce5800162c3b39d4873bb510ff6de48d6411b4b3b2c_Laser Spikes_Activate_2.png",
+          "name": "Laser Spikes_Activate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/bf90731f6df88b8687b11a2d677e01e521d06ad91538219cb6518405cd1dc761_Laser Spikes_Activate_3.png",
+          "name": "Laser Spikes_Activate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/10644230494e0426717712ea5e6ce9bd95359e030c999f2b2721410789776714_Laser Spikes_Activate_4.png",
+          "name": "Laser Spikes_Activate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ad0b08b769da2e951d5af04e74982946315f3f7755801580e48f8fbfbffb8dde_Laser Spikes_Activate_5.png",
+          "name": "Laser Spikes_Activate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/f341f1cb2d397195fc9b8db8a282bfb080630a615d769fd12c2f8575eb1b332e_Laser Spikes_Activate_6.png",
+          "name": "Laser Spikes_Activate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/b914d5f65ab901bb8ea2809068067d12b2397fab974746e3fdf0706734c95adf_Laser Spikes_Activate_7.png",
+          "name": "Laser Spikes_Activate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a08f7aeb667ffef800bb2b682d6fd7e36977b766b521dcf7b44b27569c383ca3_Laser Spikes_Activate_8.png",
+          "name": "Laser Spikes_Activate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Activate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/58a3f6b99c85e93762dd6c4441f2245281706d7ac852513994f6d692ca424c8e_Laser Spikes_Activate_9.png",
+          "name": "Laser Spikes_Activate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_1.png",
+          "name": "Laser Spikes_Deactivate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_2.png",
+          "name": "Laser Spikes_Deactivate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_3.png",
+          "name": "Laser Spikes_Deactivate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2861e9b8ae6c4629a36326e696391c4dfa2a78b81c2c2dd574bad7604182cf6d_Laser Spikes_Deactivate_4.png",
+          "name": "Laser Spikes_Deactivate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3550d282450562f3b67d75b6d1661144f8805e336b9b622f984989809131296e_Laser Spikes_Deactivate_5.png",
+          "name": "Laser Spikes_Deactivate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/df73c4c35dd46f28cd644eaa515b634fc219db7a590631c3c784fb92baf05da5_Laser Spikes_Deactivate_6.png",
+          "name": "Laser Spikes_Deactivate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/fb4d1f09b881e125e7e790154190b2354839e21cadc18884ddb21eb3579053b1_Laser Spikes_Deactivate_7.png",
+          "name": "Laser Spikes_Deactivate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Deactivate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2cd2ad061a7475ee664e50cd88b452a8cfc0d31c0e374c92ae95eab33c037d73_Laser Spikes_Deactivate_8.png",
+          "name": "Laser Spikes_Deactivate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/6a720cadfb725e873894bbba633ec932f7de6efcfad171b8dadb3a9e83548931_Laser Spikes_Idle_1.png",
+          "name": "Laser Spikes_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/18ee83c3ddf6b49ea3b727fe0a1752eda7660f670a19c410bd7b400bdbabd4e9_Laser Spikes_Idle_10.png",
+          "name": "Laser Spikes_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2df9da84322e4fbfd70614cf7f2a47570d535a96cb0676059b26a052a7d81b69_Laser Spikes_Idle_2.png",
+          "name": "Laser Spikes_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/114cdd29446e80a389d96bfae644fc27f913163322b5e66288dc67647fa99aea_Laser Spikes_Idle_3.png",
+          "name": "Laser Spikes_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/075ec711c0f853db9d29ec687e4a0c569a129ce792f4cab9e87b8a2b77cded3e_Laser Spikes_Idle_4.png",
+          "name": "Laser Spikes_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8ee216b299e86ff24310c475179257005f4b3897de90a68f945fbe8bda84d2b3_Laser Spikes_Idle_5.png",
+          "name": "Laser Spikes_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/da21d38122acea494a8bd50590c0095011532ebd82f4e05b088610e61c38d931_Laser Spikes_Idle_6.png",
+          "name": "Laser Spikes_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9cd4b3a48dccef1b4acbfa71d14bc0f392dc541e6a1d668b4f8148b04dd8bc73_Laser Spikes_Idle_7.png",
+          "name": "Laser Spikes_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/d4e30a44e3a7b24a80cf5f73fa40b07db21ac3f978d013edea80d26a30877232_Laser Spikes_Idle_8.png",
+          "name": "Laser Spikes_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Spikes_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/67e75afaf012d8fbaef6e1313ade04d5904ad1a5edbb86285320e51d2f1df9cb_Laser Spikes_Idle_9.png",
+          "name": "Laser Spikes_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2cd65f17afffd6cd3aeae7592e8f66480c81d2397c320c398d237b4594cbe75b_Laser_Activate_1.png",
+          "name": "Laser_Activate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/99af64959748d162f54e3aeb211193fc2bc0353a2080839a2c010c9a04059715_Laser_Activate_10.png",
+          "name": "Laser_Activate_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/7457d6ff633144198bd5f41c09b24915f8b88749b6f4f49e3148f5ae4fb99a30_Laser_Activate_11.png",
+          "name": "Laser_Activate_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/c2f3f8652709d4410c41d36bddbf5ea41ba5e1679bdb2fb15ca13a9eb1b6e6dd_Laser_Activate_12.png",
+          "name": "Laser_Activate_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/e52fc9812137619dc0af7261e166b039cbb0b7ed7b71f143fb3627a0289b59ef_Laser_Activate_2.png",
+          "name": "Laser_Activate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef94b55dadbda8a279ea6ff22d45ca332cfcdd6ed814b8ea39e2605fb2c48e27_Laser_Activate_3.png",
+          "name": "Laser_Activate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3203d36856fbd998a2e2c4aa7941d6df43bbe27db53f1ace1fbf43592d1f5810_Laser_Activate_4.png",
+          "name": "Laser_Activate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1843b01d6cd6aef801847f2bf21321fcb48a757a907d4946d67c0fd5da15bec2_Laser_Activate_5.png",
+          "name": "Laser_Activate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1a8568b8ca6c630d9089162f9cef09969cde74b3eb2d9754c4c7d6a341afb412_Laser_Activate_6.png",
+          "name": "Laser_Activate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/51b67a7530f9b5cfa2248b0fde97f574c18cf9b05d60288ce0ea3f7ffc664750_Laser_Activate_7.png",
+          "name": "Laser_Activate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/92dccdca8cd4b9dc1ed73797beb37fea1d3f9b82b862bcec4b8b37445633fdd7_Laser_Activate_8.png",
+          "name": "Laser_Activate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Activate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/06b5c2a1ea6236b8d2c7d7b11caf52a50422784d30263e64b05a3e5a63050fee_Laser_Activate_9.png",
+          "name": "Laser_Activate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/250f72345c8d66c62e77d36612d545c490abe7072650ab5055d26c8a697179c5_Laser_Deactivate_1.png",
+          "name": "Laser_Deactivate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/5b5acfce134501c402d69c65331a1376bde0ffbd7892786507c8f88796b0f8d5_Laser_Deactivate_2.png",
+          "name": "Laser_Deactivate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/82cb91ae28cd5de5fecb2925d2678fb26a877632850514c052aaa00860f5025c_Laser_Deactivate_3.png",
+          "name": "Laser_Deactivate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/95c15a873a436898dc7feb8623f2ff38a823a83514d2898a7879a6391b99e1a0_Laser_Deactivate_4.png",
+          "name": "Laser_Deactivate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/591d2d60d46fc2d1eff953b47e7f8b5f19ddce84f0c2f87d07e6f4d31fbab3b0_Laser_Deactivate_5.png",
+          "name": "Laser_Deactivate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/5b5acfce134501c402d69c65331a1376bde0ffbd7892786507c8f88796b0f8d5_Laser_Deactivate_6.png",
+          "name": "Laser_Deactivate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ae59ca95cfd52e8a593315ac26542599a662a40266164c198004e531d7b45d2b_Laser_Deactivate_7.png",
+          "name": "Laser_Deactivate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/fbb7164fb3306a833eff23319ed1e356be33a09482133f6db0f296755ed909c9_Laser_Deactivate_8.png",
+          "name": "Laser_Deactivate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Deactivate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Deactivate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/58b1e01ed4b7acbf51531a7ff1185737f5ae7abe66384e5930d85b0965541fa2_Laser_Deactivate_9.png",
+          "name": "Laser_Deactivate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef82c6d91f1cf4099e36980119d310571bcbafdb1e337773e9e783c73c76034c_Laser_Idle_1.png",
+          "name": "Laser_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2bd7ec0ebd1aed88dbe4ea96b5bde3cfebf4226fe59fa95da741f5adeb91b1d1_Laser_Idle_2.png",
+          "name": "Laser_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9bdf214f7f23fa5616ffc3e753dc1e91b3bc5259c3a7458213de6c33896d8d7f_Laser_Idle_3.png",
+          "name": "Laser_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/014f60d2c82c02ecd8dfd01f1c03e926b47ba2b1ea4ce62448da95f33447a53d_Laser_Idle_4.png",
+          "name": "Laser_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/630beca0b9851b491e79f50b73fd54d5d184fb26a413a7da3a41dbd824e66abf_Laser_Idle_5.png",
+          "name": "Laser_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/d3105d67e80a2b3ce009d855c79aa3e1ca5f51e98c2f85611eedb201cf05e2e9_Laser_Idle_6.png",
+          "name": "Laser_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9b34aff6a349b813cabe8fbff87786f97a1b2e514bce7808b584710e8acad782_Laser_Idle_7.png",
+          "name": "Laser_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/20a9499d8783c776961ef53385afcffc58782873645d0e90726bf0862dfb6589_Laser_Idle_8.png",
+          "name": "Laser_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9dd0987618c5e26dc95dcb3a35d663673ada0fedc0f3dbc6727bc1d7388153b3_Laser Turret_1.png",
+          "name": "Laser Turret_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0d8e22b330a8ba0747f432020cfeda0f560b1498ebadd8a8fff006aa0fdd81a4_Laser Turret_10.png",
+          "name": "Laser Turret_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8ebebd601dfe0ceb70f5802ec5b231720c492f24d21258b9dbabbd67333d332b_Laser Turret_11.png",
+          "name": "Laser Turret_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/49f2696da5dccb4c9b361e51b691c2c63cc213917e4e515544b5de50c638c5dc_Laser Turret_12.png",
+          "name": "Laser Turret_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/7175a1b485e58ff6204698963502e9a5857310b6762e93248ad03f79d44a4839_Laser Turret_13.png",
+          "name": "Laser Turret_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/f668a72cd45846b397b313ed75c3753dd7d0a9200bae3e2f54949b76ad05eaa8_Laser Turret_14.png",
+          "name": "Laser Turret_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0d7496ec7df000e220aeac33c01a1bd35b7616d75d7b0b855085977631cb765d_Laser Turret_15.png",
+          "name": "Laser Turret_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1ffddf32f52f61f0c74d91ed2c90a7c0118d49009eb89d7b46a060307938c3bd_Laser Turret_16.png",
+          "name": "Laser Turret_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/89617bcbb1de004f8feb872b027e6bb8c8f2a985a5af47c9134b9959040de9ae_Laser Turret_17.png",
+          "name": "Laser Turret_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2aae04a93f90588623043c0a7829202dbbe2196a08fdab151a989f458e8b5df6_Laser Turret_2.png",
+          "name": "Laser Turret_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/91f4a1f623d01faf4b787658210d9abf0b4bfacdcf3f173877a1fd674b87fd5c_Laser Turret_3.png",
+          "name": "Laser Turret_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/db8b115f06e240a82ff62dde6b7ca7de6848a84d6d24d6077dff6548a0bcf79f_Laser Turret_4.png",
+          "name": "Laser Turret_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ee73e9f24bbc497eccd08aa4778d01e399aca5df546e3927b9a3e7981dabc06b_Laser Turret_5.png",
+          "name": "Laser Turret_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0dc7f001d252a536a0857d564ccf6311e7ead401dbe327fdccb9e0e47a0bd1ac_Laser Turret_6.png",
+          "name": "Laser Turret_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/cda7aea89f830a0f4fd0eb80b42ced8cf45e8ebaa0e3daf3430c5ae0d15a884e_Laser Turret_7.png",
+          "name": "Laser Turret_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/40ee7b9381c18ba0a43cfc275f245e3b934124d76515bda60c91bbe2bfb953ab_Laser Turret_8.png",
+          "name": "Laser Turret_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser Turret_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Turret_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/03f79fe04d1fc724411f65789a8e745c901134984af248fd2e214b8c53a82beb_Laser Turret_9.png",
+          "name": "Laser Turret_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/113cdb91a5a21c1d40d91468dc5dd961453b2b4bd291a8702056bc022c1e85e1_Electric Turret_1.png",
+          "name": "Electric Turret_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/7c816dcf7a0b9ab5bcf4e374e7d76cbfe4b73a4d272ae08560b68d8bcd5ce96b_Electric Turret_10.png",
+          "name": "Electric Turret_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/35907f3435f3ae32f553d5c1820fc5651053597cab97ab5911a67faeb0abc952_Electric Turret_11.png",
+          "name": "Electric Turret_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/6a378da993a6669b496c51bf90196ac24f2726bddc8e89a18e765ea92e99fcb0_Electric Turret_12.png",
+          "name": "Electric Turret_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/066cc597950aeaca107e5adcc1b197d176cad5e310d26183f46b2146e5e2fa8a_Electric Turret_13.png",
+          "name": "Electric Turret_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/dc6676aa0d41f889582a97815dccffb1ffa1f09d7e6a9859e029ab98b6f7a6c5_Electric Turret_14.png",
+          "name": "Electric Turret_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/c2bf250dcfe5186752133635c444c9e430619bbadb44fa627b90b4af98aec1b8_Electric Turret_15.png",
+          "name": "Electric Turret_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/beab7c4a6e576cd648088754097d51573be6b82259c0cc0f8bb8f27c14af8213_Electric Turret_16.png",
+          "name": "Electric Turret_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3cc6351d98fe66b2dd2ef975648c842296dd2d2753d2e048936de27921bd08f9_Electric Turret_17.png",
+          "name": "Electric Turret_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/448dc67fb5f595b4a9b2fdf41cc966b72bf43c01a714d2bcf39fe894de92ffcc_Electric Turret_18.png",
+          "name": "Electric Turret_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/edc1cfe5874a59cf8f5678cbe2b323c8a43eba7cc4227f704d9a4ad2dcf8c66a_Electric Turret_19.png",
+          "name": "Electric Turret_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/e0dae582e4a46ad3b8085461d6b8f30af4d681330e46213b8f9effb8a6f01e4f_Electric Turret_2.png",
+          "name": "Electric Turret_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/edaf2a4a43a4218dfe44fdbac1501ac9e1809711729c685b4f80e3572a983df6_Electric Turret_20.png",
+          "name": "Electric Turret_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/7157cf96dec09f0030aff8946d96a191c8133be9ecdc8f7aba83a37ee9951068_Electric Turret_21.png",
+          "name": "Electric Turret_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3cc6351d98fe66b2dd2ef975648c842296dd2d2753d2e048936de27921bd08f9_Electric Turret_22.png",
+          "name": "Electric Turret_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/b6f9e9410e026a157590366ca5b7468d9448caab9819e9d332db3a9d184f093b_Electric Turret_23.png",
+          "name": "Electric Turret_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/08a74aea2d2dac15fbe5b5af6a45b50ee922ade968e88aea56298edc108966cc_Electric Turret_24.png",
+          "name": "Electric Turret_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3cc6351d98fe66b2dd2ef975648c842296dd2d2753d2e048936de27921bd08f9_Electric Turret_25.png",
+          "name": "Electric Turret_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/335ebf8860757644a503c2e7e0712742c2e5136ff7833225e7a2344c93a42bc4_Electric Turret_3.png",
+          "name": "Electric Turret_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4ed90e9f29297abdd659534bad7fbfb005362f0c24da1ba22a9393d1cbce9563_Electric Turret_4.png",
+          "name": "Electric Turret_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/cc33050b006a35a0435d50df35efd8599fa31db601bef373787a682b39085a01_Electric Turret_5.png",
+          "name": "Electric Turret_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/c9c04925dde0a373dd1c793e467935c73879ede087dcd27dfbc8495713da3207_Electric Turret_6.png",
+          "name": "Electric Turret_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/c8bf0f47bb393c19593a165ac8164d57a52a81d22ef87036f444a8cc9da212b2_Electric Turret_7.png",
+          "name": "Electric Turret_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/756f836bde05d13ed23b2922d27def3ebfafe7c23e44ebefac170278cefe8917_Electric Turret_8.png",
+          "name": "Electric Turret_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Electric Turret_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Electric Turret_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8478753cf97940cedd0a445dbdde4307f89498b47c08e51207a0689059888d8d_Electric Turret_9.png",
+          "name": "Electric Turret_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/72de03b86bd3cc418f3c4628465ce1b068a7623bbba5940faca971636a692c56_Saw_Activate_1.png",
+          "name": "Saw_Activate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/e10d37e9158c5778204155ac141f2ddae16ffd4b094428cb057341a29dd8a8e9_Saw_Activate_10.png",
+          "name": "Saw_Activate_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/239be249ca0b3b0891a907a25c7dae2a17ba7cf352f523876ff13b602f5f9454_Saw_Activate_11.png",
+          "name": "Saw_Activate_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a3fcf521d9b23623488ea416fab49e7e050ac047d2f537868145d7422a59a3f8_Saw_Activate_12.png",
+          "name": "Saw_Activate_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2026e11a818394035d32dd74a2dd86941b4964862b61a83e8578dff9e22aa293_Saw_Activate_13.png",
+          "name": "Saw_Activate_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/c9e72afb753137de810ca25105d92dd81ce63c2e99e8bd899da9d4b10b574977_Saw_Activate_2.png",
+          "name": "Saw_Activate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a72f9c1182899ec3e2840ea2ba1e22a5285029da6bdd07df2c43ad1e211c0dab_Saw_Activate_3.png",
+          "name": "Saw_Activate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a85fbd6fc4200613f8ecc034828f535d059e1dfa6d546f77ea974138d9629800_Saw_Activate_4.png",
+          "name": "Saw_Activate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1e722bdf5b02038da11832a8eb65cf98481b6c00438dafb28abb98a13427293e_Saw_Activate_5.png",
+          "name": "Saw_Activate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4bbd8907c02cfd5243fe97be2b2460b66cfd66e44360ea68c653b09b3537c64c_Saw_Activate_6.png",
+          "name": "Saw_Activate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/31a6cdaeade9c23b199142a8b8828d5dbaeabf161a609382aa7df3e037ab9906_Saw_Activate_7.png",
+          "name": "Saw_Activate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1ca0cead166b4180084d497ccdeca00c5baea33fef607af8d8a27eecbe559b09_Saw_Activate_8.png",
+          "name": "Saw_Activate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Activate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Activate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/78dd8b2705cfea76101df46b03260e9efeb2b0fabb316537a2c0ce46bb5af665_Saw_Activate_9.png",
+          "name": "Saw_Activate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/6919ccaa8bd29c0ad12a63bbddba37963b6531a70891850883e6f0c193320c95_Saw_Deactivate_1.png",
+          "name": "Saw_Deactivate_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/b2b61b7b0b6a995fe4fe6301b98ee85e67317e8e97fa12d68911bcbc86b22404_Saw_Deactivate_10.png",
+          "name": "Saw_Deactivate_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/5f536554c34acaa2445ed99fcdeb4e0dda759654bbaa086db7b52c71b268e77b_Saw_Deactivate_11.png",
+          "name": "Saw_Deactivate_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/f9c531e8a1ec9bccc114ac3b7ecc9db52bcbd04cf858c7667c2fce1b04c036ef_Saw_Deactivate_12.png",
+          "name": "Saw_Deactivate_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/aa3ed0f4d598ebfbfd2396b08d7fda1743e3b8a33e522cc4a86a957b18e0a8a9_Saw_Deactivate_13.png",
+          "name": "Saw_Deactivate_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0e1e7afadbaa29b3df3eeb51ee90581d9fd301b703a280e11e7012e59e8a664e_Saw_Deactivate_2.png",
+          "name": "Saw_Deactivate_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/f83ff57e8d61d65b4fb89430f1eafec5837b4fb245eab6dbcfd6474214bd24e0_Saw_Deactivate_3.png",
+          "name": "Saw_Deactivate_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/22d216522853073ab2944f01a232b3641ddce96b73e9b9b69d08eb72baf0b38f_Saw_Deactivate_4.png",
+          "name": "Saw_Deactivate_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9483f93c88fd4eade437cb0849aca3986b1ebb7bcca7d8595024471b9d857d3e_Saw_Deactivate_5.png",
+          "name": "Saw_Deactivate_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/70d24129bee9932619d6deb4618b1e3ea70e99924edb69cd1b2d755edabddf02_Saw_Deactivate_6.png",
+          "name": "Saw_Deactivate_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a832aa07892d0603aa682c7091ca8a0ef0cee9364d41cba807d682e847160344_Saw_Deactivate_7.png",
+          "name": "Saw_Deactivate_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/1dfa3fbd69dab5325be171c84b63aa6b7b65db0b0b5bb2189a0d71f631783a98_Saw_Deactivate_8.png",
+          "name": "Saw_Deactivate_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Deactivate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Deactivate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/6864767fc23e6a041eeef07dd1b44e68f43aebac2e56a533fd54f875c76a8cd6_Saw_Deactivate_9.png",
+          "name": "Saw_Deactivate_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0357b881d0ab91961d6a541aca164589afc52c1e27e55ffe899649b3152af3bd_Saw_Idle_1.png",
+          "name": "Saw_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/21da13e2e7b91752140723c5a54852705c6cdd3044cf92587084e419c1446d95_Saw_Idle_2.png",
+          "name": "Saw_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2275335d21430dede79b8a6824abc6783ac46d4920afd1ba8a301cc42770dd4d_Saw_Idle_3.png",
+          "name": "Saw_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/dfb8bc90cdb62bc4f8651e40dd625065dca9811cb4bb519a1eb32487fffc518c_Saw_Idle_4.png",
+          "name": "Saw_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/91b2760a7cd890cc71d98c466ed61965ae2a15c53053d733ed347aba28ab4299_Saw_Idle_5.png",
+          "name": "Saw_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/5e1a51709e0d74f085b1afb07cadb336572630bd8d5c21d69228a9db11f08507_Saw_Idle_6.png",
+          "name": "Saw_Idle_6.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -9039,7 +13793,99 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "gravity": 800,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": 0,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 2.0247e-320,
+          "LogRightwardSpeed": 2.0247e-320,
+          "LogDownwardSpeed": 2.0247e-320,
+          "LogUpwardSpeed": 2.0247e-320,
+          "DelayedCenterX": 2.0247e-320,
+          "DelayedCenterY": 2.0247e-320,
+          "ForecastHistoryMeanX": 2.0247e-320,
+          "ForecastHistoryMeanY": 2.0247e-320,
+          "ForecastHistoryVarianceX": 2.0247e-320,
+          "ForecastHistoryCovariance": 2.0247e-320,
+          "ForecastHistoryLinearA": 2.0247e-320,
+          "ForecastHistoryLinearB": 2.0247e-320,
+          "ForecastedX": 2.0247e-320,
+          "ForecastedY": 2.0247e-320,
+          "ProjectedNewestX": 2.0247e-320,
+          "ProjectedNewestY": 2.0247e-320,
+          "ProjectedOldestX": 2.0247e-320,
+          "ProjectedOldestY": 2.0247e-320,
+          "ForecastHistoryVarianceY": 2.0247e-320,
+          "Index": 2.0247e-320,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 2.0247e-320,
+          "WaitingSpeedXMax": 2.0247e-320,
+          "WaitingSpeedYMax": 2.0247e-320,
+          "WaitingEnd": 2.0247e-320,
+          "CameraDelayCatchUpDuration": 2.0247e-320,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000.000000007454,
+          "OldY": 9000.000000007454,
+          "IsCalledManually": false
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera",
+          "PlatformerCharacter": "PlatformerObject",
+          "SmoothCamera": "SmoothCamera",
+          "JumpOriginY": 2.143215748875e-312,
+          "AirFollowFreeAreaTop": 0,
+          "AirFollowFreeAreaBottom": 0,
+          "FloorFollowFreeAreaTop": 0,
+          "FloorFollowFreeAreaBottom": 0,
+          "AirUpwardSpeed": 0.95,
+          "AirDownwardSpeed": 0.95,
+          "FloorUpwardSpeed": 0.9,
+          "FloorDownwardSpeed": 0.9,
+          "AirUpwardSpeedMax": 9000,
+          "AirDownwardSpeedMax": 9000,
+          "FloorUpwardSpeedMax": 9000,
+          "FloorDownwardSpeedMax": 9000
+        }
+      ],
       "animations": [
         {
           "name": "Idle",
@@ -10194,6 +15040,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/animatedbackandforthmovement"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
