@@ -3341,6 +3341,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/658bcda47797e9c56055b1c27ac2f21c3aa1ab20cd6f1859bd5fa167012381b8_Yellow barrel.png",
           "name": "Yellow barrel.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Filler UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Filler UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/d70cc11f0586950a66afb50569f6219b34cc662b5cc1eef6e2067d50ca79f5e1_tiled_Tiled Filler UI Heart.png",
+          "name": "tiled_Tiled Filler UI Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Empty UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Empty UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/519263438248377197120750d43b299f255ed049875d8b335a3a5bab45244f4f_tiled_Tiled Empty UI Heart.png",
+          "name": "tiled_Tiled Empty UI Heart.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -14826,6 +14852,69 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "abf51d082db5a117d9ee2e65299660f6787d47664e4571bad6db3075b3393c5f",
+      "height": 128,
+      "name": "TiledFillerUiHeart",
+      "texture": "tiled_Tiled Filler UI Heart.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "752e405ef67d9f9d1bd36f9763f1b6fc05633d64700982c0f3118a25a32e39b2",
+      "height": 128,
+      "name": "TiledEmptyUiHeart",
+      "texture": "tiled_Tiled Empty UI Heart.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Score_for_Eggs_",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "X ",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "X ",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 60,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -14884,6 +14973,15 @@
       },
       {
         "objectName": "GreenDoorTop"
+      },
+      {
+        "objectName": "Score_for_Eggs_"
+      },
+      {
+        "objectName": "TiledFillerUiHeart"
+      },
+      {
+        "objectName": "TiledEmptyUiHeart"
       },
       {
         "objectName": "IndustrialPlatform2"
