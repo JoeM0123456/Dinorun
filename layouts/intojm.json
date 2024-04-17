@@ -491,7 +491,7 @@
       "string": "Greetings Ray! You have been chosen as our new intern.\n We hope you learn a lot \nas we research the past and the mysteries of the world. \nRemember Do Not Press Any Buttons!!",
       "font": "",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 35,
       "color": {
         "b": 0,
         "g": 0,
@@ -500,7 +500,7 @@
       "content": {
         "bold": true,
         "isOutlineEnabled": true,
-        "isShadowEnabled": true,
+        "isShadowEnabled": false,
         "italic": true,
         "outlineColor": "255;255;255",
         "outlineThickness": 2,
@@ -514,7 +514,7 @@
         "text": "Greetings Ray! You have been chosen as our new intern.\n We hope you learn a lot \nas we research the past and the mysteries of the world. \nRemember Do Not Press Any Buttons!!",
         "font": "",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 35,
         "color": "0;0;0"
       }
     },
@@ -540,14 +540,14 @@
       },
       "content": {
         "bold": true,
-        "isOutlineEnabled": true,
-        "isShadowEnabled": true,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
         "italic": false,
         "outlineColor": "255;255;255",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
-        "shadowColor": "216;56;56",
+        "shadowColor": "0;0;0",
         "shadowDistance": 4,
         "shadowOpacity": 127,
         "smoothed": true,
@@ -770,8 +770,8 @@
           "parameters": [
             "",
             "Intro",
-            "150",
-            "40",
+            "-50",
+            "100",
             ""
           ]
         }
@@ -833,8 +833,8 @@
           "parameters": [
             "",
             "Broken_Tube",
-            "2222",
-            "120",
+            "2000",
+            "150",
             ""
           ]
         }
@@ -972,6 +972,11 @@
           ]
         }
       ],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
       "actions": []
     }
   ],

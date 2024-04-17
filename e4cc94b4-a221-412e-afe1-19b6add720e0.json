@@ -3367,6 +3367,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/519263438248377197120750d43b299f255ed049875d8b335a3a5bab45244f4f_tiled_Tiled Empty UI Heart.png",
           "name": "tiled_Tiled Empty UI Heart.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health Bar Box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar Box.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/e6e666707e06c429f6dd475d85d575a5b69a1dc27369a8f1d06a747afa2f1264_Health Bar Box.png",
+          "name": "Health Bar Box.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/ec41092214e9b23d9992e2885835085c8e5457268b3e054599e799cc8074fc52_Health Bar.png",
+          "name": "Health Bar.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -14854,28 +14880,6 @@
       ]
     },
     {
-      "assetStoreId": "abf51d082db5a117d9ee2e65299660f6787d47664e4571bad6db3075b3393c5f",
-      "height": 128,
-      "name": "TiledFillerUiHeart",
-      "texture": "tiled_Tiled Filler UI Heart.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "752e405ef67d9f9d1bd36f9763f1b6fc05633d64700982c0f3118a25a32e39b2",
-      "height": 128,
-      "name": "TiledEmptyUiHeart",
-      "texture": "tiled_Tiled Empty UI Heart.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
       "assetStoreId": "",
       "bold": false,
       "italic": false,
@@ -14915,6 +14919,38 @@
         "characterSize": 60,
         "color": "0;0;0"
       }
+    },
+    {
+      "assetStoreId": "138ee716846635e3e0e5ab7b63752d1a36754f1ac874c70e1b5fa372d5a05474",
+      "bottomMargin": 6,
+      "height": 15,
+      "leftMargin": 11,
+      "name": "HealthBarBox",
+      "rightMargin": 9,
+      "texture": "Health Bar Box.png",
+      "tiled": true,
+      "topMargin": 6,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 96,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "0ad03c70a5c5284cc85170b3852e425db0f4deed8225b1b10722ef26902186d8",
+      "bottomMargin": 2,
+      "height": 9,
+      "leftMargin": 3,
+      "name": "HealthBar",
+      "rightMargin": 3,
+      "texture": "Health Bar.png",
+      "tiled": true,
+      "topMargin": 4,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 78,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -14978,10 +15014,10 @@
         "objectName": "Score_for_Eggs_"
       },
       {
-        "objectName": "TiledFillerUiHeart"
+        "objectName": "HealthBar"
       },
       {
-        "objectName": "TiledEmptyUiHeart"
+        "objectName": "HealthBarBox"
       },
       {
         "objectName": "IndustrialPlatform2"
@@ -14995,7 +15031,20 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "health",
+      "type": "number",
+      "value": 100
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
