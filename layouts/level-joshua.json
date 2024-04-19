@@ -8,15 +8,1458 @@
   "stopSoundsOnStartup": true,
   "title": "",
   "v": 209,
-  "uiSettings": {},
-  "objectsGroups": [],
-  "variables": [],
-  "instances": [],
-  "objects": [],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT"
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.18218128628499652,
+    "windowMask": false
   },
-  "events": [],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "win",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1124,
+      "layer": "",
+      "name": "GreenBackground",
+      "persistentUuid": "c556b6a2-a507-451e-9afa-07f38613ddca",
+      "width": 4384,
+      "x": -614,
+      "y": -311,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 85,
+      "layer": "",
+      "name": "DinoVita",
+      "persistentUuid": "915310e3-1bcc-4ab5-9bc9-6e0ca7dd4494",
+      "width": 94,
+      "x": 87,
+      "y": 453,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 300,
+      "layer": "",
+      "name": "IndustrialPlatform",
+      "persistentUuid": "dfe00aa8-b87c-4c4d-afe1-77b92db334cd",
+      "width": 1007,
+      "x": -616,
+      "y": 533,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 672,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "6ae3ebf4-52d8-49cb-9c03-39b2e96a6ce5",
+      "width": 140,
+      "x": 345,
+      "y": 433,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 377,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "5c0fb50e-fd00-4f92-9a91-7ca596e6f780",
+      "width": 506,
+      "x": 481,
+      "y": 603,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "0a4806ec-1f66-43b2-b496-0075cf2d9a51",
+      "width": 345,
+      "x": 605,
+      "y": 393,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "IndustrialBlock4",
+      "persistentUuid": "54217f6b-c959-4bbb-a55b-6416207653a5",
+      "width": 140,
+      "x": 809,
+      "y": 285,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 305,
+      "layer": "",
+      "name": "IndustrialPlatform2",
+      "persistentUuid": "4b788475-5de8-4f65-85fd-0525804aea75",
+      "width": 140,
+      "x": 960,
+      "y": 390,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "38d85de1-3e7f-486e-9a87-674877c9441b",
+      "width": 324,
+      "x": 959,
+      "y": 314,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 299,
+      "layer": "",
+      "name": "IndustrialPlatform2",
+      "persistentUuid": "e2604d97-9f3b-4119-b184-ed513391e264",
+      "width": 140,
+      "x": 1407,
+      "y": 317,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 60,
+      "layer": "",
+      "name": "YellowButtonOnSocle",
+      "persistentUuid": "f4756f69-f974-451f-ae4f-9b38a940856d",
+      "width": 73,
+      "x": 2659,
+      "y": 595,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "14452d5c-722b-4d5a-81e5-44e4ef3e67c3",
+      "width": 420,
+      "x": 1670,
+      "y": 316,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "33080e47-e45b-4515-8bee-300520d504e6",
+      "width": 986,
+      "x": 1092,
+      "y": 602,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 142,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "9f1c1326-457e-4dd8-a9ca-58532c624428",
+      "width": 298,
+      "x": 1845,
+      "y": 485,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 121,
+      "layer": "",
+      "name": "IndustrialBlock4",
+      "persistentUuid": "c6b11cd3-2155-4750-8357-c884a2154687",
+      "width": 140,
+      "x": 1694,
+      "y": 198,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 99,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "86322573-24bb-4651-b843-eac1de66f571",
+      "width": 203,
+      "x": 1901,
+      "y": 522,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 142,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "0c6eb3b2-3de1-4087-9b44-502ddc50707b",
+      "width": 283,
+      "x": 1793,
+      "y": 489,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 482,
+      "layer": "",
+      "name": "IndustrialPlatform",
+      "persistentUuid": "7ecd122d-08a7-4512-b8ee-241ad1ebb084",
+      "width": 140,
+      "x": 2064,
+      "y": 324,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "ef79d402-80c9-429e-9ee1-4fae7eac766d",
+      "width": 328,
+      "x": 1907,
+      "y": 101,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 516,
+      "layer": "",
+      "name": "IndustrialPlatform",
+      "persistentUuid": "28779677-30a4-4b43-8ade-2cead4242dbc",
+      "width": 140,
+      "x": 2359,
+      "y": 310,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "c6258b21-edac-4d1c-a523-8228d86d883d",
+      "width": 412,
+      "x": 2329,
+      "y": 8,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 82,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "16f54079-c6b4-4044-87f3-5397c5597239",
+      "width": 128,
+      "x": 2632,
+      "y": -61,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 143,
+      "layer": "",
+      "name": "GreenSubstanceFloor_JC",
+      "persistentUuid": "41f3be1a-b666-437b-a25e-36e8ee5c3115",
+      "width": 4380,
+      "x": -602,
+      "y": 676,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "33ffa031-bd6a-4731-a80f-e01f8ba306ae",
+      "width": 591,
+      "x": 2361,
+      "y": 311,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 503,
+      "layer": "",
+      "name": "IndustrialPlatform",
+      "persistentUuid": "4356198a-a1db-4432-a789-5bdedf6dd38a",
+      "width": 252,
+      "x": 3047,
+      "y": 308,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 252,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "1ef2bcc4-6e2d-4720-bc39-70443943f057",
+      "width": 556,
+      "x": 2496,
+      "y": 661,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1626,
+      "layer": "",
+      "name": "IndustrialPlatform2",
+      "persistentUuid": "7d678995-e881-4134-ae55-62613a38a33c",
+      "width": 581,
+      "x": 3224,
+      "y": -801,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 112,
+      "layer": "",
+      "name": "GreenSubstanceCeiling",
+      "persistentUuid": "f331f5ba-f216-4b2c-8b44-e634debb22a0",
+      "width": 128,
+      "x": 2419,
+      "y": 77,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 118,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "28fa0d70-ab33-46f4-aa0c-e27c8e6354c3",
+      "width": 216,
+      "x": 2499,
+      "y": 570,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 135,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "53d0db7f-973b-4420-a546-2479f8e5af1c",
+      "width": 233,
+      "x": 2564,
+      "y": 549,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 125,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "da3cbfcd-35d4-4da8-bc5a-61320f826938",
+      "width": 234,
+      "x": 1107,
+      "y": 518,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "5695cece-b07a-4363-b284-83594ba89c82",
+      "width": 2102,
+      "x": 27,
+      "y": -123,
+      "zOrder": 48,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 134,
+      "layer": "",
+      "name": "GreenSubstanceCeiling",
+      "persistentUuid": "f6012b6f-6575-4f49-98c9-1649e4a93286",
+      "width": 1455,
+      "x": 73,
+      "y": -53,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 103,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "c3eec334-23a9-4f76-acee-c4fd043c0cbe",
+      "width": 178,
+      "x": 1571,
+      "y": -208,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 93,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "919470db-e1ce-42ff-87ca-4ef3e9fd07ce",
+      "width": 189,
+      "x": 1481,
+      "y": -204,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 336,
+      "customSize": true,
+      "depth": 1,
+      "height": 134,
+      "layer": "",
+      "name": "SecurityFence",
+      "persistentUuid": "366fdec9-aa39-48c2-848d-3a2b30c9c3ba",
+      "width": 278,
+      "x": 2139,
+      "y": -162,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "36632aee-a9a9-4c28-a43f-1dad21e1227a",
+      "width": 845,
+      "x": 2387,
+      "y": -233,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1254,
+      "layer": "",
+      "name": "IndustrialPlatform2",
+      "persistentUuid": "90b16b30-4a73-452f-9fc8-bd8e4786220b",
+      "width": 720,
+      "x": -649,
+      "y": -419,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 93,
+      "layer": "",
+      "name": "eggsJm3",
+      "persistentUuid": "5071b204-9703-4b3b-a7be-27550ba49d80",
+      "width": 189,
+      "x": 753,
+      "y": 528,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 359,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "eedb7dad-dadc-4094-920a-6d8d34b57b9a",
+      "width": 101,
+      "x": 2947,
+      "y": 302,
+      "zOrder": 57,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 244,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "5aa278b8-541a-4a6c-bdd9-23a60665a612",
+      "width": 140,
+      "x": 489,
+      "y": 365,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 312,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "83255e7a-a9ae-4438-9d07-676b4e44b086",
+      "width": 117,
+      "x": 1557,
+      "y": 301,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 195,
+      "layer": "",
+      "name": "GreenDoorTop",
+      "persistentUuid": "344a6ad8-34b1-44cc-815a-c193631dc664",
+      "width": 173,
+      "x": 69,
+      "y": -315,
+      "zOrder": 60,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 662,
+      "layer": "",
+      "name": "IndustrialPlatform",
+      "persistentUuid": "4ba888df-e10e-4396-b0cc-e517d82e89ac",
+      "width": 4442,
+      "x": -633,
+      "y": -969,
+      "zOrder": 61,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 297,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "f617c917-26cb-4920-8121-d541f74c428c",
+      "width": 1,
+      "x": 1413,
+      "y": 332,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 315,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "6a9ead3d-c8a2-40c0-bb70-a132190ccf2c",
+      "width": 117,
+      "x": 1284,
+      "y": 302,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 294,
+      "layer": "",
+      "name": "IndustrialLadder",
+      "persistentUuid": "8c46ecc5-26bd-40e4-be5e-914fd9db188e",
+      "width": 82,
+      "x": 2738,
+      "y": 21,
+      "zOrder": 62,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 107,
+      "layer": "",
+      "name": "IndustrialBlock4",
+      "persistentUuid": "8d814533-b1b1-48ab-b171-44beb3962f78",
+      "width": 97,
+      "x": 2157,
+      "y": -8,
+      "zOrder": 63,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 192,
+      "layer": "",
+      "name": "GreenBlock",
+      "persistentUuid": "409baf8a-5891-4d28-8cc2-9172ddc301c3",
+      "width": 67,
+      "x": 232,
+      "y": -310,
+      "zOrder": 64,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "layer": "",
+      "name": "GreenSubstanceCeiling",
+      "persistentUuid": "59ecdc51-3d75-49d0-9fc0-36c392443ac7",
+      "width": 212,
+      "x": 2812,
+      "y": -152,
+      "zOrder": 65,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 131,
+      "layer": "",
+      "name": "GreenSubstanceCeiling",
+      "persistentUuid": "5571e340-b459-4834-855c-588e6a2530a2",
+      "width": 182,
+      "x": 1086,
+      "y": 381,
+      "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 140,
+      "layer": "",
+      "name": "GreenSubstanceCeiling",
+      "persistentUuid": "162c2bc8-1d50-4b39-bfcd-c9a6c268cece",
+      "width": 413,
+      "x": 2496,
+      "y": 387,
+      "zOrder": 67,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "1ad548921ad2a330317f2dc9e77f468c7044702e94c312e255d3d7245797c6e8",
+      "height": 128,
+      "name": "GreenSubstanceFloor_JC",
+      "texture": "tiled_Green substance floor.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "GreenSubstanceFloor_JC"
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "win",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Animations"
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::IsOnFloor"
+          },
+          "parameters": [
+            "DinoVita",
+            "PlatformerObject"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "DinoVita",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+          },
+          "parameters": [
+            "DinoVita",
+            "PlatformerObject"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "DinoVita",
+            "Animation",
+            "=",
+            "\"Move\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::IsJumping"
+          },
+          "parameters": [
+            "DinoVita",
+            "PlatformerObject"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "DinoVita",
+            "Animation",
+            "=",
+            "\"Crouch\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::LadderClimbingSpeed"
+          },
+          "parameters": [
+            "DinoVita",
+            "PlatformerObject",
+            "=",
+            "100"
+          ]
+        }
+      ],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Collisions"
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "GreenSubstanceFloor_JC",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "DinoVita",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
+            "",
+            "40",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"level joshua\"",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "GreenSubstanceCeiling",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "DinoVita",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
+            "",
+            "40",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"level joshua\"",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "eggsJm3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "eggsJm3",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "win",
+            "+",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "YellowButtonOnSocle",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "SecurityFence",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Controls"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "IndustrialLadder",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Down"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreY"
+          },
+          "parameters": [
+            "DinoVita",
+            "-",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "IndustrialLadder",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Up"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreY"
+          },
+          "parameters": [
+            "DinoVita",
+            "+",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "DinoVita",
+            "Flippable",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Right"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "DinoVita",
+            "Flippable",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "-50",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Right"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "50",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarScene"
+          },
+          "parameters": [
+            "win",
+            "=",
+            "10"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "GreenBlock",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "GreenDoorTop",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"level micheal\"",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -25,7 +1468,7 @@
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 3,
-      "cameraType": "perspective",
+      "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
@@ -103,10 +1546,6 @@
     {
       "name": "SmoothPlatformerCamera",
       "type": "SmoothCamera::SmoothPlatformerCamera"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }

@@ -8091,6 +8091,32 @@
         "name": "assets\\Wide rectangle glass_Broken.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Green substance floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Green substance floor.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/56661294f4b698b56db19d2fc43565f275c1f66f6d350fe873a1b33f6f98838b_tiled_Green substance floor.png",
+          "name": "tiled_Green substance floor.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tileset Piece 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tileset Piece 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/ecba29c20918a067f60312a9ffb111f771322f14b8f5683d187ae3fe12332f0d_tiled_Tileset Piece 2.png",
+          "name": "tiled_Tileset Piece 2.png"
+        }
       }
     ],
     "resourceFolders": []
