@@ -8082,6 +8082,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/5e1a51709e0d74f085b1afb07cadb336572630bd8d5c21d69228a9db11f08507_Saw_Idle_6.png",
           "name": "Saw_Idle_6.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wide rectangle glass_Broken.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wide rectangle glass_Broken.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -8345,10 +8354,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -15067,6 +15076,8 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -15079,9 +15090,7 @@
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
           "maxSpeed": 250,
-          "name": "PlatformerObject",
           "slopeMaxAngle": 60,
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
