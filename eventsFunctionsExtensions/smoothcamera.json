@@ -4580,7 +4580,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "FollowFreeAreaLeft"
         },
         {
@@ -4591,7 +4590,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "FollowFreeAreaRight"
         },
         {
@@ -4602,7 +4600,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "FollowFreeAreaTop"
         },
         {
@@ -4613,7 +4610,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "FollowFreeAreaBottom"
         },
         {
@@ -4624,7 +4620,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "CameraOffsetX"
         },
         {
@@ -4635,7 +4630,6 @@
           "description": "",
           "group": "Position",
           "extraInformation": [],
-          "advanced": true,
           "name": "CameraOffsetY"
         },
         {
@@ -4646,7 +4640,6 @@
           "description": "",
           "group": "Timing",
           "extraInformation": [],
-          "deprecated": true,
           "name": "CameraDelay"
         },
         {
@@ -4657,7 +4650,6 @@
           "description": "",
           "group": "Timing",
           "extraInformation": [],
-          "deprecated": true,
           "name": "ForecastTime"
         },
         {
@@ -4668,7 +4660,6 @@
           "description": "",
           "group": "Timing",
           "extraInformation": [],
-          "deprecated": true,
           "name": "ForecastHistoryDuration"
         },
         {
@@ -4939,7 +4930,6 @@
           "description": "",
           "group": "Maximum speed",
           "extraInformation": [],
-          "advanced": true,
           "name": "LeftwardSpeedMax"
         },
         {
@@ -4950,7 +4940,6 @@
           "description": "",
           "group": "Maximum speed",
           "extraInformation": [],
-          "advanced": true,
           "name": "RightwardSpeedMax"
         },
         {
@@ -4961,7 +4950,6 @@
           "description": "",
           "group": "Maximum speed",
           "extraInformation": [],
-          "advanced": true,
           "name": "UpwardSpeedMax"
         },
         {
@@ -4972,7 +4960,6 @@
           "description": "",
           "group": "Maximum speed",
           "extraInformation": [],
-          "advanced": true,
           "name": "DownwardSpeedMax"
         },
         {
