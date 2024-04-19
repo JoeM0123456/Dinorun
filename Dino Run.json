@@ -8117,6 +8117,214 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/ecba29c20918a067f60312a9ffb111f771322f14b8f5683d187ae3fe12332f0d_tiled_Tileset Piece 2.png",
           "name": "tiled_Tileset Piece 2.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saloon Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ffc50f738dd9cc7fab37bc0abf43bd396b7d093d1cc1704339754a3d989a713e_Saloon Background.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Wesxdz Game Assets/skullcup/ffc50f738dd9cc7fab37bc0abf43bd396b7d093d1cc1704339754a3d989a713e_Saloon Background.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Green background2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5ad55afc411bdb8f9ea1c5c0ebd0d6cd3b62da4c411018fd2ca35910a2c737c6_tiled_Green background.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/5ad55afc411bdb8f9ea1c5c0ebd0d6cd3b62da4c411018fd2ca35910a2c737c6_tiled_Green background.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_blue space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2948b735772413c7f19d8ffbbca435a38bd99f044a71d23542f4e73d91cbba47_tiled_blue space.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/2948b735772413c7f19d8ffbbca435a38bd99f044a71d23542f4e73d91cbba47_tiled_blue space.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_15.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Control Panel_Deactivate_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "0a46b6e1704522f79c219512f8f4edbeeb25ce147d5c9dbc0f7050040947e04d_Control Panel_Deactivate_16.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0a46b6e1704522f79c219512f8f4edbeeb25ce147d5c9dbc0f7050040947e04d_Control Panel_Deactivate_16.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3 Bullet_3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Droid 3 Bullet_3.png\",\"extension\":\".png\"}",
+        "name": "4ab822e1de50389177c615f2bef800cfb588ea6bd22e7a1452ba5a79ee8ef12a_Droid 3 Bullet_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/4ab822e1de50389177c615f2bef800cfb588ea6bd22e7a1452ba5a79ee8ef12a_Droid 3 Bullet_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3 Bullet_2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Droid 3 Bullet_2.png\",\"extension\":\".png\"}",
+        "name": "ed88499bb69197264a7b0d5098cdb027e553782c98640f376026be0ae36f0bfa_Droid 3 Bullet_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/ed88499bb69197264a7b0d5098cdb027e553782c98640f376026be0ae36f0bfa_Droid 3 Bullet_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Vat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "0090bc2fb55518693d73afc4de80945aa17bec0a82444f47e193593c5f3e4f6a_Vat.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/0090bc2fb55518693d73afc4de80945aa17bec0a82444f47e193593c5f3e4f6a_Vat.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Laser_Activate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ef94b55dadbda8a279ea6ff22d45ca332cfcdd6ed814b8ea39e2605fb2c48e27_Laser_Activate_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef94b55dadbda8a279ea6ff22d45ca332cfcdd6ed814b8ea39e2605fb2c48e27_Laser_Activate_3.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
