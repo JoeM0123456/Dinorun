@@ -1540,6 +1540,10 @@
     {
       "name": "SmoothPlatformerCamera",
       "type": "SmoothCamera::SmoothPlatformerCamera"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }

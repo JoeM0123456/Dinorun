@@ -200,7 +200,7 @@
         "alwaysLoaded": false,
         "file": "assets/move9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/move9.png\"}",
         "name": "move8",
         "smoothed": false,
         "userAdded": true
@@ -8325,6 +8325,26 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef94b55dadbda8a279ea6ff22d45ca332cfcdd6ed814b8ea39e2605fb2c48e27_Laser_Activate_3.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Kenney High Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/2d361282cf7e5646ed37f5eb34beea0802af5f6bf922414f9dde6a825141f979_Kenney High Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -19860,6 +19880,115 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "eggsMd",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "move",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.033333,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "move8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 9.5,
+                    "y": 11
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 3
+                      },
+                      {
+                        "x": 16,
+                        "y": 19
+                      },
+                      {
+                        "x": 3,
+                        "y": 19
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Score",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "EggVariable",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "string": "x 0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "x 0",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 60,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -19933,6 +20062,12 @@
       },
       {
         "objectName": "eggsJm3"
+      },
+      {
+        "objectName": "eggsMd"
+      },
+      {
+        "objectName": "Score"
       }
     ]
   },
@@ -19949,6 +20084,12 @@
       "name": "maxover",
       "type": "number",
       "value": 25
+    },
+    {
+      "folded": true,
+      "name": "VariableScoreMd",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
