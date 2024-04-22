@@ -485,9 +485,9 @@
       "name": "DinoVita2",
       "persistentUuid": "7d6ba9c3-d67a-43f0-8766-34ec1497b37e",
       "width": 253,
-      "x": 2729,
-      "y": 96,
-      "zOrder": 110,
+      "x": 2721,
+      "y": 92,
+      "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -880,7 +880,7 @@
           },
           "parameters": [
             "",
-            "\"Level joe testing\"",
+            "\"secret leveljm\"",
             ""
           ]
         }
@@ -993,8 +993,32 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVitajm",
+            "GreenDoorTop",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"level michael\"",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
