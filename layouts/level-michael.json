@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "level_32micheal",
-  "name": "level micheal",
+  "mangledName": "level_32michael",
+  "name": "level michael",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -23,6 +23,18 @@
   },
   "objectsGroups": [],
   "variables": [
+    {
+      "folded": true,
+      "name": "health",
+      "type": "number",
+      "value": 25
+    },
+    {
+      "folded": true,
+      "name": "maxhealth",
+      "type": "number",
+      "value": 25
+    },
     {
       "folded": true,
       "name": "ScoreMd",
@@ -11129,7 +11141,7 @@
           },
           "parameters": [
             "",
-            "\"level micheal\"",
+            "\"level michael\"",
             ""
           ]
         }
