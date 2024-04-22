@@ -14146,7 +14146,20 @@
       "name": "DinoVita",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "health",
+          "type": "number",
+          "value": 25
+        },
+        {
+          "folded": true,
+          "name": "maxhealth",
+          "type": "number",
+          "value": 25
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -15306,10 +15319,24 @@
       "name": "DinoVitajm",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "Health",
+          "type": "number",
+          "value": 25
+        },
+        {
+          "folded": true,
+          "name": "MaxHealth",
+          "type": "number",
+          "value": 25
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
+          "gravity": 800,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
@@ -15317,7 +15344,6 @@
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
           "deceleration": 1500,
-          "gravity": 1000,
           "ignoreDefaultControls": false,
           "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
@@ -16116,7 +16142,7 @@
           "directions": [
             {
               "looping": true,
-              "timeBetweenFrames": 0.0833,
+              "timeBetweenFrames": 0.21,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -19915,9 +19941,15 @@
   "variables": [
     {
       "folded": true,
-      "name": "healthjm",
+      "name": "overalhp",
       "type": "number",
-      "value": 0
+      "value": 25
+    },
+    {
+      "folded": true,
+      "name": "maxover",
+      "type": "number",
+      "value": 25
     }
   ],
   "layouts": [

@@ -18,11 +18,24 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2817259932079568,
+    "zoomFactor": 1.7458023987467886,
     "windowMask": false
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "health",
+      "type": "number",
+      "value": 25
+    },
+    {
+      "folded": true,
+      "name": "maxhealth",
+      "type": "number",
+      "value": 25
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -1381,6 +1394,40 @@
       "x": 21810,
       "y": -67,
       "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 22.8125,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "HealthBarBoxjm",
+      "persistentUuid": "2d420152-1300-4c96-9f01-17c73dd5b746",
+      "width": 146,
+      "x": 17,
+      "y": 44,
+      "zOrder": 97,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 14.769230769230768,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "HealthBarjm",
+      "persistentUuid": "bc3f13a4-11a1-4502-8fc7-a1d93ff57d7d",
+      "width": 128,
+      "x": 26,
+      "y": 48,
+      "zOrder": 98,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -10669,7 +10716,19 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Comment",
@@ -11070,10 +11129,6 @@
     {
       "name": "SmoothPlatformerCamera",
       "type": "SmoothCamera::SmoothPlatformerCamera"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }
