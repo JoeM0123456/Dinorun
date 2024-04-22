@@ -18,6 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
+    "zoomFactor": 0.26238402960031293,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -50,10 +51,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+      "height": 108,
       "layer": "",
       "name": "DinoVita",
       "persistentUuid": "915310e3-1bcc-4ab5-9bc9-6e0ca7dd4494",
+      "width": 112,
       "x": 87,
+      "y": 430,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -531,6 +535,7 @@
       "layer": "",
       "name": "SmallPlatform",
       "persistentUuid": "5695cece-b07a-4363-b284-83594ba89c82",
+      "width": 2046,
       "x": 27,
       "y": -123,
       "zOrder": 48,
@@ -587,11 +592,16 @@
       "initialVariables": []
     },
     {
+      "angle": 337,
       "customSize": true,
       "depth": 1,
+      "height": 135,
       "layer": "",
       "name": "SecurityFence",
       "persistentUuid": "366fdec9-aa39-48c2-848d-3a2b30c9c3ba",
+      "width": 280,
+      "x": 2083,
+      "y": -165,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -605,8 +615,8 @@
       "layer": "",
       "name": "SmallPlatform",
       "persistentUuid": "36632aee-a9a9-4c28-a43f-1dad21e1227a",
-      "width": 845,
-      "x": 2387,
+      "width": 903,
+      "x": 2329,
       "y": -233,
       "zOrder": 53,
       "numberProperties": [],
@@ -1210,23 +1220,20 @@
       "conditions": [
         {
           "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "DinoVita",
-            "IndustrialLadder",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
             "value": "KeyPressed"
           },
           "parameters": [
             "",
             "Down"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::IsOnLadder"
+          },
+          "parameters": [
+            "DinoVita",
+            "PlatformerObject"
           ]
         }
       ],
@@ -1248,14 +1255,11 @@
       "conditions": [
         {
           "type": {
-            "value": "CollisionNP"
+            "value": "PlatformBehavior::IsOnLadder"
           },
           "parameters": [
-            "DinoVita",
-            "IndustrialLadder",
-            "",
-            "",
-            ""
+            "DinoVitajm",
+            "PlatformerObject"
           ]
         },
         {
