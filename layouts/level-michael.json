@@ -11273,7 +11273,7 @@
           "parameters": [
             "overalhp",
             "+",
-            "5"
+            "10"
           ]
         },
         {
@@ -11288,6 +11288,13 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Intojm"
     }
   ],
   "layers": [
