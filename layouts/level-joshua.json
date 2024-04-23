@@ -1503,6 +1503,46 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "HealthKit",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "+",
+            "5"
+          ]
+        }
+      ]
     }
   ],
   "layers": [

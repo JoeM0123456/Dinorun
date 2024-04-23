@@ -8365,6 +8365,19 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Flag/ea4906ab823fb367aa336c7debec3311347740306acdae94d45e31b5a0564cd2_Flag Green.png",
           "name": "Flag Green.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health Kit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Kit.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Common Pick-ups/b798da5352866083a4b89fe21efefcd725f8479676838dc68b2dc4e15afbd325_Health Kit.png",
+          "name": "Health Kit.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -19950,6 +19963,66 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "f14d8dc28a62e7820f37886f1c6ee4c89568d8774aaeba2be8d22af1001a66b6",
+      "name": "HealthKit",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Health Kit.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 3
+                      },
+                      {
+                        "x": 15,
+                        "y": 3
+                      },
+                      {
+                        "x": 15,
+                        "y": 16
+                      },
+                      {
+                        "x": 1,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -20023,6 +20096,9 @@
       },
       {
         "objectName": "HealthBarjm"
+      },
+      {
+        "objectName": "HealthKit"
       },
       {
         "objectName": "IndustrialPlatform2"

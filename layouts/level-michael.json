@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5117784035210201,
+    "zoomFactor": 0.4789341884535271,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -691,8 +691,8 @@
       "name": "Respawn",
       "persistentUuid": "2dda53b5-c2e6-4e79-ad06-d13b353e02d4",
       "width": 30916,
-      "x": -3938,
-      "y": 838,
+      "x": -3933,
+      "y": 841,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -1445,6 +1445,40 @@
       "x": 22195,
       "y": -355,
       "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 74,
+      "keepRatio": true,
+      "layer": "",
+      "name": "HealthKit",
+      "persistentUuid": "4e9808fb-5324-4d34-b0d3-85c140522430",
+      "width": 77,
+      "x": 4650,
+      "y": 353,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "keepRatio": true,
+      "layer": "",
+      "name": "HealthKit",
+      "persistentUuid": "111b5dd5-4669-47e5-9c53-b13a16d33343",
+      "width": 108,
+      "x": 14533,
+      "y": -98,
+      "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11202,6 +11236,55 @@
             "",
             "\"level michael\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "HealthKit",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "HealthKit",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "+",
+            "5"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
