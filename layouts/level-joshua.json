@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8376149362634455,
+    "zoomFactor": 1.3325613700363894,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -632,8 +632,8 @@
       "name": "IndustrialPlatform2",
       "persistentUuid": "90b16b30-4a73-452f-9fc8-bd8e4786220b",
       "width": 720,
-      "x": -649,
-      "y": -419,
+      "x": -644,
+      "y": -412,
       "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
@@ -862,6 +862,40 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 22.8125,
+      "keepRatio": true,
+      "layer": "GUI",
+      "name": "HealthBarBoxjm",
+      "persistentUuid": "1528aa9b-7010-4881-a928-0d6b0eafdb87",
+      "width": 146,
+      "x": 8,
+      "y": 9,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 15,
+      "keepRatio": true,
+      "layer": "GUI",
+      "name": "HealthBarjm",
+      "persistentUuid": "f7230892-253c-46ea-9555-1d7d57525db8",
+      "width": 130.00000000000003,
+      "x": 16,
+      "y": 13,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -907,6 +941,17 @@
             "win",
             "=",
             "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -1453,7 +1498,7 @@
           },
           "parameters": [
             "",
-            "\"level michael\"",
+            "\"level carson\"",
             ""
           ]
         }
