@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.22978684759733303,
+    "zoomFactor": 0.5442578032456812,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -392,8 +392,8 @@
       "name": "GreenSubstanceFloor_JC",
       "persistentUuid": "41f3be1a-b666-437b-a25e-36e8ee5c3115",
       "width": 4380,
-      "x": -602,
-      "y": 676,
+      "x": -613,
+      "y": 597,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -552,8 +552,8 @@
       "name": "GreenSubstanceCeiling",
       "persistentUuid": "f6012b6f-6575-4f49-98c9-1649e4a93286",
       "width": 1455,
-      "x": 73,
-      "y": -53,
+      "x": 68,
+      "y": -54,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -1100,33 +1100,35 @@
       "actions": [
         {
           "type": {
-            "value": "Delete"
+            "value": "MettreXY"
           },
           "parameters": [
             "DinoVita",
-            ""
+            "=",
+            "87",
+            "=",
+            "453"
           ]
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "ModVarGlobal"
           },
           "parameters": [
-            "",
-            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-            "",
-            "40",
-            "1"
+            "overalhp",
+            "=",
+            "25"
           ]
         },
         {
           "type": {
-            "value": "Scene"
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
           },
           "parameters": [
-            "",
-            "\"level joshua\"",
-            "yes"
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -1146,38 +1148,34 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
         {
           "type": {
-            "value": "Delete"
+            "value": "ModVarGlobal"
           },
           "parameters": [
-            "DinoVita",
-            ""
+            "overalhp",
+            "-",
+            "2"
           ]
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
           },
           "parameters": [
-            "",
-            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-            "",
-            "40",
-            "1"
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"level joshua\"",
-            "yes"
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -1244,6 +1242,57 @@
           "parameters": [
             "SecurityFence",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::Width"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "=",
+            "87",
+            "=",
+            "453"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]

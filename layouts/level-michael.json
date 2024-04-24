@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.19561100536769369,
+    "zoomFactor": 0.2550455473354353,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -10984,6 +10984,27 @@
             "\"level michael\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
         }
       ]
     },
@@ -11295,6 +11316,57 @@
         "includeConfig": 0
       },
       "target": "Intojm"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::Width"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "=",
+            "0",
+            "=",
+            "438"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
