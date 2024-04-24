@@ -444,6 +444,37 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Score",
+      "persistentUuid": "55065b56-a5de-481b-949d-89d7f35d9db9",
+      "width": 0,
+      "x": 124,
+      "y": 105,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 117,
+      "layer": "",
+      "name": "eggsMd",
+      "persistentUuid": "636a88a5-1435-4205-ab18-baaa74d46080",
+      "width": 246,
+      "x": 46,
+      "y": 79,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [

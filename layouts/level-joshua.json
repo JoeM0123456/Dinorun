@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.26238402960031293,
+    "zoomFactor": 0.49271466839026307,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -862,6 +862,37 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "UI Layer",
+      "name": "Score",
+      "persistentUuid": "e7dbafe6-7352-4b5e-8f99-474301707483",
+      "width": 0,
+      "x": 124,
+      "y": 105,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 117,
+      "layer": "UI Layer",
+      "name": "eggsMd",
+      "persistentUuid": "615ea79d-97d9-461e-8e09-744e0bf360b0",
+      "width": 246,
+      "x": 46,
+      "y": 79,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1055,33 +1086,23 @@
       "actions": [
         {
           "type": {
-            "value": "Delete"
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
           },
           "parameters": [
-            "DinoVita",
-            ""
+            "Score",
+            "Text",
+            "=",
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
           ]
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "ModVarGlobal"
           },
           "parameters": [
-            "",
-            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-            "",
-            "40",
+            "VariableScoreMd",
+            "+",
             "1"
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"level joshua\"",
-            "yes"
           ]
         }
       ]
@@ -1103,39 +1124,7 @@
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "DinoVita",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
-            "",
-            "40",
-            "1"
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"level joshua\"",
-            "yes"
-          ]
-        }
-      ]
+      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -1165,12 +1154,23 @@
         },
         {
           "type": {
-            "value": "ModVarScene"
+            "value": "ModVarGlobal"
           },
           "parameters": [
-            "win",
+            "VariableScoreMd",
             "+",
             "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Score",
+            "Text",
+            "=",
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
           ]
         }
       ]
@@ -1481,6 +1481,39 @@
           "width": 0
         }
       ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "UI Layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",

@@ -18,23 +18,11 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5843784410740952,
+    "zoomFactor": 0.7370816317994058,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [
-    {
-      "folded": true,
-      "name": "health",
-      "type": "number",
-      "value": 25
-    },
-    {
-      "folded": true,
-      "name": "maxhealth",
-      "type": "number",
-      "value": 25
-    },
     {
       "folded": true,
       "name": "ScoreMd",
@@ -713,8 +701,8 @@
       "name": "eggsJm3",
       "persistentUuid": "f491721c-956b-4ee6-8d25-11ef2b5b294b",
       "width": 146,
-      "x": 1365,
-      "y": 153,
+      "x": 1317,
+      "y": -13,
       "zOrder": 53,
       "numberProperties": [],
       "stringProperties": [],
@@ -881,22 +869,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 140,
-      "layer": "",
-      "name": "GreenBlock",
-      "persistentUuid": "e2e7555f-10b2-45eb-8743-72542066bd77",
-      "width": 372,
-      "x": 1205,
-      "y": 77,
-      "zOrder": 63,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "layer": "",
@@ -959,13 +931,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 175,
+      "height": 126,
       "layer": "",
       "name": "LaserSpikesMd",
       "persistentUuid": "af4c4fdd-2e39-483a-bbfc-2a575a86df8e",
       "width": 98,
-      "x": 6415,
-      "y": 295,
+      "x": 6410,
+      "y": 323,
       "zOrder": 70,
       "numberProperties": [],
       "stringProperties": [],
@@ -1007,13 +979,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 185,
+      "height": 137,
       "layer": "",
       "name": "LaserSpikesMd",
       "persistentUuid": "e750117a-f9b0-44f7-b423-5e6bb7885011",
       "width": 99,
-      "x": 12829,
-      "y": 85,
+      "x": 12821,
+      "y": 109,
       "zOrder": 73,
       "numberProperties": [],
       "stringProperties": [],
@@ -1359,40 +1331,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 22.8125,
-      "keepRatio": true,
-      "layer": "UI Layer",
-      "name": "HealthBarBoxjm",
-      "persistentUuid": "2d420152-1300-4c96-9f01-17c73dd5b746",
-      "width": 146,
-      "x": 17,
-      "y": 44,
-      "zOrder": 97,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 14.769230769230768,
-      "keepRatio": true,
-      "layer": "UI Layer",
-      "name": "HealthBarjm",
-      "persistentUuid": "bc3f13a4-11a1-4502-8fc7-a1d93ff57d7d",
-      "width": 128,
-      "x": 26,
-      "y": 48,
-      "zOrder": 98,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "layer": "",
@@ -1426,7 +1364,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "UI Layer",
+      "layer": "UI Layer MD",
       "name": "IndustrialSpikesMd",
       "persistentUuid": "c6eaa8e3-b00f-43f2-b545-80f4f3c1f3e9",
       "width": 0,
@@ -1441,13 +1379,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 161,
-      "layer": "UI Layer",
+      "height": 119,
+      "layer": "UI Layer MD",
       "name": "LaserSpikesMd",
       "persistentUuid": "05432e04-53d8-40b0-a2b6-05843b54c3cd",
       "width": 84,
-      "x": 14629,
-      "y": -149,
+      "x": 14624,
+      "y": -128,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1457,7 +1395,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "UI Layer",
+      "layer": "UI Layer MD",
       "name": "Score",
       "persistentUuid": "96f11ab9-072e-495e-93f9-ac7906220489",
       "width": 0,
@@ -1473,7 +1411,7 @@
       "customSize": true,
       "depth": 1,
       "height": 117,
-      "layer": "UI Layer",
+      "layer": "UI Layer MD",
       "name": "eggsMd",
       "persistentUuid": "2ead8e42-6fa4-47b5-b8c1-66523eeff125",
       "width": 246,
@@ -1493,8 +1431,8 @@
       "name": "SawMd",
       "persistentUuid": "275fb953-d097-4499-9591-5eb4376b1f74",
       "width": 106,
-      "x": 20383,
-      "y": -169,
+      "x": 20382,
+      "y": -183,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -1510,7 +1448,7 @@
       "persistentUuid": "502d2f1c-4fcd-429f-930d-929d10260e9a",
       "width": 106,
       "x": 20580,
-      "y": -171,
+      "y": -182,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -1525,8 +1463,8 @@
       "name": "SawMd",
       "persistentUuid": "e12bfb30-967f-4466-b598-e03697425151",
       "width": 106,
-      "x": 20780,
-      "y": -172,
+      "x": 20781,
+      "y": -181,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -1552,13 +1490,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 88,
+      "height": 102,
       "layer": "",
       "name": "LaserMd",
       "persistentUuid": "152f4968-c2f4-49b9-ad95-fb891e843a91",
       "width": 73,
       "x": 7833,
-      "y": -225,
+      "y": -239,
       "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
@@ -1573,8 +1511,8 @@
       "name": "IndustrialPlatform",
       "persistentUuid": "a4c3195e-5443-4bcb-aed0-55b8d8235939",
       "width": 359,
-      "x": 7847,
-      "y": -280,
+      "x": 7842,
+      "y": -293,
       "zOrder": 32,
       "numberProperties": [],
       "stringProperties": [],
@@ -1589,8 +1527,8 @@
       "name": "BarrelsMd",
       "persistentUuid": "a82057d8-40df-48a2-9906-f33e00c910e2",
       "width": 55,
-      "x": 7989,
-      "y": -344,
+      "x": 7986,
+      "y": -363,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -1640,6 +1578,21 @@
       "x": 21531,
       "y": -19,
       "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SmallPlatform",
+      "persistentUuid": "e6f9bff3-09ca-4a49-9a4a-43921ed72acd",
+      "width": 0,
+      "x": 1279,
+      "y": 59,
+      "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11183,12 +11136,25 @@
       "actions": [
         {
           "type": {
-            "value": "Scene"
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
           },
           "parameters": [
-            "",
-            "\"level michael\"",
-            ""
+            "Score",
+            "Text",
+            "=",
+            "\" x \"+ ToString(GlobalVariable(VariableScoreMd))"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "=",
+            "10",
+            "=",
+            "439"
           ]
         }
       ]
@@ -11249,39 +11215,15 @@
             "Score",
             "Text",
             "=",
-            "\"x \" + GlobalVariableString(VariableScoreMd)"
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
           ]
         }
       ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "DinoVita",
-            "Ending",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Level joe testing\"",
-            ""
-          ]
-        }
-      ]
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
@@ -11373,7 +11315,7 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
-      "name": "UI Layer",
+      "name": "UI Layer MD",
       "renderingType": "",
       "visibility": true,
       "cameras": [],

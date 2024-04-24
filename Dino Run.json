@@ -8810,6 +8810,7 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
+      "behaviors": [],
       "animations": [
         {
           "name": "",
@@ -14165,20 +14166,7 @@
       "name": "DinoVita",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [
-        {
-          "folded": true,
-          "name": "health",
-          "type": "number",
-          "value": 25
-        },
-        {
-          "folded": true,
-          "name": "maxhealth",
-          "type": "number",
-          "value": 25
-        }
-      ],
+      "variables": [],
       "effects": [],
       "behaviors": [
         {
@@ -15355,9 +15343,9 @@
       "effects": [],
       "behaviors": [
         {
-          "gravity": 800,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "gravity": 800,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -20088,8 +20076,8 @@
     {
       "folded": true,
       "name": "VariableScoreMd",
-      "type": "number",
-      "value": 0
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
