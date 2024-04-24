@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.49271466839026307,
+    "zoomFactor": 0.32015164896804793,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -53,7 +53,7 @@
       "depth": 1,
       "height": 108,
       "layer": "",
-      "name": "DinoVita",
+      "name": "DinoVita9000",
       "persistentUuid": "915310e3-1bcc-4ab5-9bc9-6e0ca7dd4494",
       "width": 112,
       "x": 87,
@@ -275,13 +275,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 99,
+      "height": 118,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "86322573-24bb-4651-b843-eac1de66f571",
-      "width": 203,
-      "x": 1901,
-      "y": 522,
+      "width": 223,
+      "x": 1931,
+      "y": 506,
       "zOrder": 26,
       "numberProperties": [],
       "stringProperties": [],
@@ -296,8 +296,8 @@
       "name": "eggsJm3",
       "persistentUuid": "0c6eb3b2-3de1-4087-9b44-502ddc50707b",
       "width": 283,
-      "x": 1793,
-      "y": 489,
+      "x": 1766,
+      "y": 487,
       "zOrder": 26,
       "numberProperties": [],
       "stringProperties": [],
@@ -371,13 +371,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 82,
+      "height": 117,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "16f54079-c6b4-4044-87f3-5397c5597239",
-      "width": 128,
-      "x": 2632,
-      "y": -61,
+      "width": 251,
+      "x": 2509,
+      "y": -96,
       "zOrder": 34,
       "numberProperties": [],
       "stringProperties": [],
@@ -563,13 +563,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 103,
+      "height": 124,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "c3eec334-23a9-4f76-acee-c4fd043c0cbe",
-      "width": 178,
+      "width": 222,
       "x": 1571,
-      "y": -208,
+      "y": -229,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -579,13 +579,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 93,
+      "height": 116,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "919470db-e1ce-42ff-87ca-4ef3e9fd07ce",
-      "width": 189,
-      "x": 1481,
-      "y": -204,
+      "width": 247,
+      "x": 1396,
+      "y": -221,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -803,22 +803,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 192,
-      "layer": "",
-      "name": "GreenBlock",
-      "persistentUuid": "409baf8a-5891-4d28-8cc2-9172ddc301c3",
-      "width": 67,
-      "x": 232,
-      "y": -310,
-      "zOrder": 64,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 128,
       "layer": "",
       "name": "GreenSubstanceCeiling",
@@ -893,6 +877,72 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "71bf634d-a4e7-4e28-a072-7d747f2a0c1c",
+      "width": 0,
+      "x": 79,
+      "y": 369,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 63,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LaserSpikes",
+      "persistentUuid": "1dd50d95-9103-4a20-aabc-bc884ed03fbb",
+      "width": 127,
+      "x": 236,
+      "y": -186,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 63,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LaserSpikes",
+      "persistentUuid": "07389695-75d3-43fc-ba30-d2227ee785c1",
+      "width": 127,
+      "x": 1237,
+      "y": -185,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 63,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LaserSpikes",
+      "persistentUuid": "7999779e-f1bc-487d-bf1e-5c7d4d54bb33",
+      "width": 127,
+      "x": 1737,
+      "y": -193,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -906,6 +956,1103 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Press \"up\" to go up on ladders\nPress \"down\" to go down on ladders ",
+      "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Press \"up\" to go up on ladders\nPress \"down\" to go down on ladders ",
+        "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 20,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "5a910f7821ee1f16eaa78d2b0f522501ffc5e9ca307f5dfafcda2c7ddeb52c04",
+      "name": "LaserSpikes",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0833,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Idle_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Activate",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.0833,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Activate_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Deactivate",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.125,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Laser Spikes_Deactivate_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 17
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -913,6 +2060,12 @@
     "children": [
       {
         "objectName": "GreenSubstanceFloor_JC"
+      },
+      {
+        "objectName": "NewText"
+      },
+      {
+        "objectName": "LaserSpikes"
       }
     ]
   },
@@ -939,6 +2092,17 @@
             "=",
             "0"
           ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Activate\""
+          ]
         }
       ]
     },
@@ -963,7 +2127,7 @@
             "value": "PlatformBehavior::IsOnFloor"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -974,7 +2138,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Idle\""
@@ -991,7 +2155,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -1002,7 +2166,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Move\""
@@ -1018,7 +2182,7 @@
             "value": "PlatformBehavior::IsJumping"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -1029,7 +2193,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Crouch\""
@@ -1045,7 +2209,7 @@
             "value": "PlatformBehavior::LadderClimbingSpeed"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject",
             "=",
             "100"
@@ -1053,6 +2217,35 @@
         }
       ],
       "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Activate\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Comment",
@@ -1075,7 +2268,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "GreenSubstanceFloor_JC",
             "",
             "",
@@ -1086,23 +2279,11 @@
       "actions": [
         {
           "type": {
-            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+            "value": "MettreXY"
           },
           "parameters": [
-            "Score",
-            "Text",
-            "=",
-            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVarGlobal"
-          },
-          "parameters": [
-            "VariableScoreMd",
-            "+",
-            "1"
+            "DinoVita",
+            ""
           ]
         }
       ]
@@ -1116,7 +2297,48 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
+            "LaserSpikes",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "healthjm",
+            "-",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita9000",
             "GreenSubstanceCeiling",
             "",
             "",
@@ -1124,7 +2346,18 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "healthjm",
+            "-",
+            "2"
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -1134,7 +2367,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "eggsJm3",
             "",
             "",
@@ -1183,7 +2416,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "YellowButtonOnSocle",
             "",
             "",
@@ -1232,7 +2465,7 @@
             "value": "PlatformBehavior::IsOnLadder"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -1243,7 +2476,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "-",
             "1"
           ]
@@ -1278,7 +2511,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "+",
             "1"
           ]
@@ -1305,7 +2538,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "yes"
           ]
@@ -1332,7 +2565,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "no"
           ]
@@ -1358,7 +2591,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "-50",
             "0",
             ""
@@ -1385,7 +2618,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "50",
             "0",
             ""
@@ -1415,40 +2648,13 @@
       "actions": [
         {
           "type": {
-            "value": "Delete"
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "GreenBlock",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "DinoVita",
-            "GreenDoorTop",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"level michael\"",
-            ""
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Deactivate\""
           ]
         }
       ]

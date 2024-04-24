@@ -8345,6 +8345,17 @@
         "name": "NewSprite",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/VT323-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -8810,7 +8821,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Ladder",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -14163,7 +14182,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "9163c8e7be832bda37495c941d0bf7e18a6bddd901ab925aa1dcd879b914bf5e",
-      "name": "DinoVita",
+      "name": "DinoVita9000",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -20016,7 +20035,7 @@
         "objectName": "Tracyjm"
       },
       {
-        "objectName": "DinoVita"
+        "objectName": "DinoVita9000"
       },
       {
         "objectName": "DinoVita2"

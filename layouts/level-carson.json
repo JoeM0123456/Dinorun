@@ -323,7 +323,7 @@
       "depth": 1,
       "height": 76,
       "layer": "",
-      "name": "DinoVita",
+      "name": "DinoVita9000",
       "persistentUuid": "48b3d581-4daa-49c3-bd35-e461947dec3f",
       "width": 77,
       "x": 88,
@@ -1048,7 +1048,7 @@
             "value": "PlatformBehavior::IsOnFloor"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -1059,7 +1059,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Idle\""
@@ -1086,7 +1086,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Crouch\""
@@ -1102,7 +1102,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -1113,7 +1113,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Move\""
@@ -1140,7 +1140,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "yes"
           ]
@@ -1166,7 +1166,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "no"
           ]
@@ -1181,7 +1181,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "scientistjm",
             "",
             "",
@@ -1195,7 +1195,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             ""
           ]
         },
