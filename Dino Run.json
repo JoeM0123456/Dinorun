@@ -8325,6 +8325,17 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef94b55dadbda8a279ea6ff22d45ca332cfcdd6ed814b8ea39e2605fb2c48e27_Laser_Activate_3.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/VT323-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -8790,6 +8801,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Ladder",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
