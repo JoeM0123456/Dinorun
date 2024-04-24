@@ -14162,7 +14162,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "9163c8e7be832bda37495c941d0bf7e18a6bddd901ab925aa1dcd879b914bf5e",
-      "name": "DinoVita",
+      "name": "DinoVita9000",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -19893,7 +19893,7 @@
         "objectName": "Tracyjm"
       },
       {
-        "objectName": "DinoVita"
+        "objectName": "DinoVita9000"
       },
       {
         "objectName": "DinoVita2"

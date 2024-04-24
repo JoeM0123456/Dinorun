@@ -53,7 +53,7 @@
       "depth": 1,
       "height": 108,
       "layer": "",
-      "name": "DinoVita",
+      "name": "DinoVita9000",
       "persistentUuid": "915310e3-1bcc-4ab5-9bc9-6e0ca7dd4494",
       "width": 112,
       "x": 87,
@@ -371,13 +371,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 82,
+      "height": 117,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "16f54079-c6b4-4044-87f3-5397c5597239",
-      "width": 128,
-      "x": 2632,
-      "y": -61,
+      "width": 251,
+      "x": 2509,
+      "y": -96,
       "zOrder": 34,
       "numberProperties": [],
       "stringProperties": [],
@@ -563,13 +563,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 103,
+      "height": 124,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "c3eec334-23a9-4f76-acee-c4fd043c0cbe",
-      "width": 178,
+      "width": 222,
       "x": 1571,
-      "y": -208,
+      "y": -229,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -579,13 +579,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 93,
+      "height": 116,
       "layer": "",
       "name": "eggsJm3",
       "persistentUuid": "919470db-e1ce-42ff-87ca-4ef3e9fd07ce",
-      "width": 189,
-      "x": 1481,
-      "y": -204,
+      "width": 247,
+      "x": 1396,
+      "y": -221,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -889,8 +889,25 @@
       "name": "LaserSpikes",
       "persistentUuid": "07389695-75d3-43fc-ba30-d2227ee785c1",
       "width": 127,
-      "x": 360,
+      "x": 1237,
       "y": -185,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 63,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LaserSpikes",
+      "persistentUuid": "7999779e-f1bc-487d-bf1e-5c7d4d54bb33",
+      "width": 127,
+      "x": 1737,
+      "y": -193,
       "zOrder": 69,
       "numberProperties": [],
       "stringProperties": [],
@@ -2044,6 +2061,17 @@
             "=",
             "0"
           ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Activate\""
+          ]
         }
       ]
     },
@@ -2068,7 +2096,7 @@
             "value": "PlatformBehavior::IsOnFloor"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -2079,7 +2107,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Idle\""
@@ -2096,7 +2124,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -2107,7 +2135,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Move\""
@@ -2123,7 +2151,7 @@
             "value": "PlatformBehavior::IsJumping"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -2134,7 +2162,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Animation",
             "=",
             "\"Crouch\""
@@ -2150,7 +2178,7 @@
             "value": "PlatformBehavior::LadderClimbingSpeed"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject",
             "=",
             "100"
@@ -2158,6 +2186,35 @@
         }
       ],
       "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Activate\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Comment",
@@ -2180,7 +2237,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "GreenSubstanceFloor_JC",
             "",
             "",
@@ -2212,7 +2269,48 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
+            "LaserSpikes",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "healthjm",
+            "-",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita9000",
             "GreenSubstanceCeiling",
             "",
             "",
@@ -2223,14 +2321,12 @@
       "actions": [
         {
           "type": {
-            "value": "MettreXY"
+            "value": "ModVarGlobal"
           },
           "parameters": [
-            "DinoVitajm",
-            "=",
-            "87",
-            "=",
-            "453"
+            "healthjm",
+            "-",
+            "2"
           ]
         }
       ]
@@ -2243,7 +2339,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "eggsJm3",
             "",
             "",
@@ -2281,7 +2377,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "YellowButtonOnSocle",
             "",
             "",
@@ -2330,7 +2426,7 @@
             "value": "PlatformBehavior::IsOnLadder"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         }
@@ -2341,7 +2437,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "-",
             "1"
           ]
@@ -2376,7 +2472,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "+",
             "1"
           ]
@@ -2403,7 +2499,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "yes"
           ]
@@ -2430,7 +2526,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "Flippable",
             "no"
           ]
@@ -2456,7 +2552,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "-50",
             "0",
             ""
@@ -2483,7 +2579,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita9000",
             "50",
             "0",
             ""
@@ -2513,32 +2609,16 @@
       "actions": [
         {
           "type": {
-            "value": "Delete"
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "GreenBlock",
-            ""
+            "LaserSpikes",
+            "Animation",
+            "=",
+            "\"Deactivate\""
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "DinoVita",
-            "GreenDoorTop",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": []
     }
   ],
   "layers": [
