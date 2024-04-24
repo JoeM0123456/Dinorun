@@ -516,7 +516,7 @@
       },
       "content": {
         "bold": true,
-        "isOutlineEnabled": true,
+        "isOutlineEnabled": false,
         "isShadowEnabled": false,
         "italic": true,
         "outlineColor": "255;255;255",
