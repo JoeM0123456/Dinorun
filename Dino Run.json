@@ -8345,98 +8345,6 @@
         "name": "NewSprite",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "file": "assets/Scream 2.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "dafb79fda1449ac80c3d42b10691c1d256b37728cb0a7f2b86fb1597632f3ce2_Scream 2.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/dafb79fda1449ac80c3d42b10691c1d256b37728cb0a7f2b86fb1597632f3ce2_Scream 2.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Low spikes.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Low spikes.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/d96bf21c2e36a7331e08468bd9dd432028820ef81c24388f084fbefc3382cd6b_Low spikes.png",
-          "name": "Low spikes.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Flag Green.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Flag Green.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Flag/ea4906ab823fb367aa336c7debec3311347740306acdae94d45e31b5a0564cd2_Flag Green.png",
-          "name": "Flag Green.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Health Kit.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Health Kit.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Common Pick-ups/b798da5352866083a4b89fe21efefcd725f8479676838dc68b2dc4e15afbd325_Health Kit.png",
-          "name": "Health Kit.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Hovered.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
-          "name": "Grey Button_Hovered.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Idle.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
-          "name": "Grey Button_Idle.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Pressed.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
-          "name": "Grey Button_Pressed.png"
-        }
       }
     ],
     "resourceFolders": []
@@ -20069,186 +19977,6 @@
         "characterSize": 60,
         "color": "0;0;0"
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "f1bd9e33e55bded73402a369a40c6d558ccb6c785f18847946b0036263a23b59",
-      "name": "GreenBlock3",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Green block.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 140,
-                        "y": 0
-                      },
-                      {
-                        "x": 140,
-                        "y": 140
-                      },
-                      {
-                        "x": 0,
-                        "y": 140
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "193cee5094b22b9b645fd9a15729c16f663207b5c77be8214cb649aa2d5c7614",
-      "name": "FlagGreen",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Flag Green.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 70,
-                        "y": 0
-                      },
-                      {
-                        "x": 70,
-                        "y": 70
-                      },
-                      {
-                        "x": 0,
-                        "y": 70
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "f14d8dc28a62e7820f37886f1c6ee4c89568d8774aaeba2be8d22af1001a66b6",
-      "name": "HealthKit",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Health Kit.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 1,
-                        "y": 3
-                      },
-                      {
-                        "x": 15,
-                        "y": 3
-                      },
-                      {
-                        "x": 15,
-                        "y": 16
-                      },
-                      {
-                        "x": 1,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "objectsFolderStructure": {
@@ -20271,9 +19999,6 @@
       },
       {
         "objectName": "GreenBlock"
-      },
-      {
-        "objectName": "GreenBlock3"
       },
       {
         "objectName": "Monitor"
@@ -20315,16 +20040,10 @@
         "objectName": "SmallPlatform"
       },
       {
-        "objectName": "FlagGreen"
-      },
-      {
-        "objectName": "HealthBarBoxjm"
-      },
-      {
         "objectName": "HealthBarjm"
       },
       {
-        "objectName": "HealthKit"
+        "objectName": "HealthBarBoxjm"
       },
       {
         "objectName": "IndustrialPlatform2"
@@ -20393,10 +20112,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/ending-scene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/pausejm"
     }
   ],
   "externalEvents": [],
