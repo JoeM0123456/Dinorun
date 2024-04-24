@@ -10679,8 +10679,8 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "timeBetweenFrames": 0.0833,
+              "looping": true,
+              "timeBetweenFrames": 0.1,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -14143,7 +14143,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "9163c8e7be832bda37495c941d0bf7e18a6bddd901ab925aa1dcd879b914bf5e",
-      "name": "DinoVita",
+      "name": "DinoVita3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -14168,77 +14168,6 @@
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera",
-          "LeftwardSpeed": 0.9,
-          "RightwardSpeed": 0.9,
-          "UpwardSpeed": 0.9,
-          "DownwardSpeed": 0.9,
-          "FollowOnX": true,
-          "FollowOnY": true,
-          "FollowFreeAreaLeft": 0,
-          "FollowFreeAreaRight": 0,
-          "FollowFreeAreaTop": 0,
-          "FollowFreeAreaBottom": 0,
-          "CameraOffsetX": 0,
-          "CameraOffsetY": 0,
-          "CameraDelay": 0,
-          "ForecastTime": 0,
-          "ForecastHistoryDuration": 0,
-          "LogLeftwardSpeed": 2.0247e-320,
-          "LogRightwardSpeed": 2.0247e-320,
-          "LogDownwardSpeed": 2.0247e-320,
-          "LogUpwardSpeed": 2.0247e-320,
-          "DelayedCenterX": 2.0247e-320,
-          "DelayedCenterY": 2.0247e-320,
-          "ForecastHistoryMeanX": 2.0247e-320,
-          "ForecastHistoryMeanY": 2.0247e-320,
-          "ForecastHistoryVarianceX": 2.0247e-320,
-          "ForecastHistoryCovariance": 2.0247e-320,
-          "ForecastHistoryLinearA": 2.0247e-320,
-          "ForecastHistoryLinearB": 2.0247e-320,
-          "ForecastedX": 2.0247e-320,
-          "ForecastedY": 2.0247e-320,
-          "ProjectedNewestX": 2.0247e-320,
-          "ProjectedNewestY": 2.0247e-320,
-          "ProjectedOldestX": 2.0247e-320,
-          "ProjectedOldestY": 2.0247e-320,
-          "ForecastHistoryVarianceY": 2.0247e-320,
-          "Index": 2.0247e-320,
-          "CameraDelayCatchUpSpeed": 0,
-          "CameraExtraDelay": 2.0247e-320,
-          "WaitingSpeedXMax": 2.0247e-320,
-          "WaitingSpeedYMax": 2.0247e-320,
-          "WaitingEnd": 2.0247e-320,
-          "CameraDelayCatchUpDuration": 2.0247e-320,
-          "LeftwardSpeedMax": 9000,
-          "RightwardSpeedMax": 9000,
-          "UpwardSpeedMax": 9000,
-          "DownwardSpeedMax": 9000,
-          "OldX": 9000.000000007454,
-          "OldY": 9000.000000007454,
-          "IsCalledManually": false
-        },
-        {
-          "name": "SmoothPlatformerCamera",
-          "type": "SmoothCamera::SmoothPlatformerCamera",
-          "PlatformerCharacter": "PlatformerObject",
-          "SmoothCamera": "SmoothCamera",
-          "JumpOriginY": 2.143215748875e-312,
-          "AirFollowFreeAreaTop": 0,
-          "AirFollowFreeAreaBottom": 0,
-          "FloorFollowFreeAreaTop": 0,
-          "FloorFollowFreeAreaBottom": 0,
-          "AirUpwardSpeed": 0.95,
-          "AirDownwardSpeed": 0.95,
-          "FloorUpwardSpeed": 0.9,
-          "FloorDownwardSpeed": 0.9,
-          "AirUpwardSpeedMax": 9000,
-          "AirDownwardSpeedMax": 9000,
-          "FloorUpwardSpeedMax": 9000,
-          "FloorDownwardSpeedMax": 9000
         }
       ],
       "animations": [
@@ -19874,7 +19803,7 @@
         "objectName": "Tracyjm"
       },
       {
-        "objectName": "DinoVita"
+        "objectName": "DinoVita3"
       },
       {
         "objectName": "DinoVita2"
@@ -19956,6 +19885,14 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/repeateveryxseconds"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/firebullet"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/animatedbackandforthmovement"

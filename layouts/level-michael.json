@@ -30,7 +30,7 @@
       "depth": 1,
       "height": 141,
       "layer": "",
-      "name": "DinoVita",
+      "name": "DinoVita3",
       "persistentUuid": "c452e2e1-4c31-48a7-80d1-720f36f0e28a",
       "width": 158,
       "x": -1,
@@ -10702,7 +10702,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             ""
           ]
@@ -10728,7 +10728,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             "yes"
           ]
@@ -10738,7 +10738,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Move\""
@@ -10756,7 +10756,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -10767,7 +10767,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Idle\""
@@ -10784,7 +10784,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -10795,7 +10795,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Move\""
@@ -10828,7 +10828,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Crouch\""
@@ -10857,7 +10857,7 @@
           },
           "parameters": [
             "Respawn",
-            "DinoVita",
+            "DinoVita3",
             "",
             "",
             ""
@@ -10897,7 +10897,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "eggsJm3",
             "",
             "",

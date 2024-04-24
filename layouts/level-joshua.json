@@ -53,7 +53,7 @@
       "depth": 1,
       "height": 85,
       "layer": "",
-      "name": "DinoVita",
+      "name": "DinoVita3",
       "persistentUuid": "915310e3-1bcc-4ab5-9bc9-6e0ca7dd4494",
       "width": 94,
       "x": 87,
@@ -932,7 +932,7 @@
             "value": "PlatformBehavior::IsOnFloor"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -943,7 +943,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Idle\""
@@ -960,7 +960,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -971,7 +971,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Move\""
@@ -987,7 +987,7 @@
             "value": "PlatformBehavior::IsJumping"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -998,7 +998,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Crouch\""
@@ -1014,7 +1014,7 @@
             "value": "PlatformBehavior::LadderClimbingSpeed"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject",
             "=",
             "100"
@@ -1044,7 +1044,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "GreenSubstanceFloor_JC",
             "",
             "",
@@ -1058,7 +1058,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             ""
           ]
         },
@@ -1095,7 +1095,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "GreenSubstanceCeiling",
             "",
             "",
@@ -1109,7 +1109,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             ""
           ]
         },
@@ -1145,7 +1145,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "eggsJm3",
             "",
             "",
@@ -1183,7 +1183,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "YellowButtonOnSocle",
             "",
             "",
@@ -1223,7 +1223,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "IndustrialLadder",
             "",
             "",
@@ -1246,7 +1246,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "-",
             "1"
           ]
@@ -1261,7 +1261,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "IndustrialLadder",
             "",
             "",
@@ -1284,7 +1284,7 @@
             "value": "MettreY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "+",
             "1"
           ]
@@ -1311,7 +1311,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             "yes"
           ]
@@ -1338,7 +1338,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             "no"
           ]
@@ -1364,7 +1364,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "-50",
             "0",
             ""
@@ -1391,7 +1391,7 @@
             "value": "AddForceXY"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "50",
             "0",
             ""
@@ -1438,7 +1438,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "GreenDoorTop",
             "",
             "",
