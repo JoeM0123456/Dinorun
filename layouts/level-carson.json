@@ -305,30 +305,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 110,
+      "height": 131,
       "layer": "",
       "name": "scientistjm",
       "persistentUuid": "8d1d4676-967f-4348-95f0-7223c6af47bf",
-      "width": 101,
+      "width": 110,
       "x": 912,
-      "y": 435,
+      "y": 469,
       "zOrder": 20,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 76,
-      "layer": "",
-      "name": "DinoVita",
-      "persistentUuid": "48b3d581-4daa-49c3-bd35-e461947dec3f",
-      "width": 77,
-      "x": 88,
-      "y": 520,
-      "zOrder": 21,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -361,38 +345,6 @@
       "x": 1069,
       "y": 237,
       "zOrder": 27,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 140,
-      "layer": "",
-      "name": "IndustrialBlock4",
-      "persistentUuid": "ad66f4db-e07f-4fa6-b996-b90ad3570a9f",
-      "width": 246,
-      "x": 923,
-      "y": 538,
-      "zOrder": 25,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 59,
-      "layer": "",
-      "name": "Projectile",
-      "persistentUuid": "2c60ccaa-3695-49b7-b02e-00e59fd74e66",
-      "width": 82,
-      "x": 856,
-      "y": 459,
-      "zOrder": 26,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -471,6 +423,54 @@
       "width": 246,
       "x": 46,
       "y": 79,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "layer": "",
+      "name": "DinoVita",
+      "persistentUuid": "6e353702-170a-43e6-ad13-7930fae71c17",
+      "width": 77,
+      "x": 83,
+      "y": 520,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 92,
+      "layer": "",
+      "name": "DinoVita3",
+      "persistentUuid": "546506c0-b27e-464f-9d5c-926ea3a3f727",
+      "width": 71,
+      "x": 166,
+      "y": 513,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 40,
+      "layer": "",
+      "name": "Death",
+      "persistentUuid": "6fe2ccbe-7f6e-4efd-b537-cfbf46630054",
+      "width": 114,
+      "x": 858,
+      "y": 424,
       "zOrder": 29,
       "numberProperties": [],
       "stringProperties": [],
@@ -1017,6 +1017,47 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Death",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Nooooooo!",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Nooooooo!",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -1024,6 +1065,9 @@
     "children": [
       {
         "objectName": "BossBackground"
+      },
+      {
+        "objectName": "Death"
       },
       {
         "objectName": "BossLvlDoor"
@@ -1048,7 +1092,7 @@
             "value": "PlatformBehavior::IsOnFloor"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -1059,7 +1103,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Idle\""
@@ -1086,7 +1130,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Crouch\""
@@ -1102,7 +1146,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "PlatformerObject"
           ]
         }
@@ -1113,7 +1157,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Animation",
             "=",
             "\"Move\""
@@ -1140,7 +1184,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             "yes"
           ]
@@ -1166,7 +1210,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Flippable",
             "no"
           ]
@@ -1181,7 +1225,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "scientistjm",
             "",
             "",
@@ -1190,15 +1234,6 @@
         }
       ],
       "actions": [
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "DinoVita",
-            ""
-          ]
-        },
         {
           "type": {
             "value": "PlaySound"
@@ -1210,30 +1245,25 @@
             "40",
             "1"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+        },
         {
           "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "FlippableCapability::FlippableBehavior::FlipX"
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
             "scientistjm",
-            "Flippable",
-            "yes"
+            "Animation",
+            "=",
+            "\"Death\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "Death",
+            ""
           ]
         }
       ]
@@ -1261,6 +1291,33 @@
             "=",
             "\"Heavy Attack Laser\""
           ]
+        },
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "scientistjm",
+            "Flippable",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Death"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"Projectile\""
+          ]
         }
       ]
     },
@@ -1269,15 +1326,101 @@
       "conditions": [
         {
           "type": {
-            "value": "KeyPressed"
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "RepeatEveryXSeconds::Repeat"
           },
           "parameters": [
             "",
-            "Up"
+            "\"Projectile\"",
+            "3",
+            ""
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::FireTowardPosition"
+          },
+          "parameters": [
+            "scientistjm",
+            "",
+            "912",
+            "469",
+            "Projectile",
+            "163",
+            "513",
+            "12",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita3",
+            "eggsJm3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"ending scene\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Projectile",
+            "DinoVita3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "DinoVita3",
+            "Animation",
+            "=",
+            "\"Hurt\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
