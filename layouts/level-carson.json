@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.2530387740589861,
+    "zoomFactor": 0.5468750000000014,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -399,14 +399,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 54,
       "layer": "",
       "name": "Score",
       "persistentUuid": "55065b56-a5de-481b-949d-89d7f35d9db9",
-      "width": 0,
-      "x": 124,
-      "y": 105,
+      "width": 68,
+      "x": 83,
+      "y": 58,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -421,8 +422,8 @@
       "name": "eggsMd",
       "persistentUuid": "636a88a5-1435-4205-ab18-baaa74d46080",
       "width": 246,
-      "x": 46,
-      "y": 79,
+      "x": 7,
+      "y": 25,
       "zOrder": 29,
       "numberProperties": [],
       "stringProperties": [],
@@ -1522,6 +1523,18 @@
             "Resizable",
             "=",
             "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "d77e765dfaf8f848a9123e4cb4f55d9abb464f84f5e69e880a67349daa74b7fe_Powerup 7.aac",
+            "",
+            "40",
+            "1"
           ]
         }
       ]

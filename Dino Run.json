@@ -8448,6 +8448,34 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
           "name": "Grey Button_Pressed.png"
         }
+      },
+      {
+        "file": "assets/Coins 6.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "982e7b54cdd141371ad82b0ab7ce659f5b4b7ca6eb1f87c895d4da99d3f98ce2_Coins 6.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Coins/982e7b54cdd141371ad82b0ab7ce659f5b4b7ca6eb1f87c895d4da99d3f98ce2_Coins 6.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Powerup 7.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "d77e765dfaf8f848a9123e4cb4f55d9abb464f84f5e69e880a67349daa74b7fe_Powerup 7.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Power-up/d77e765dfaf8f848a9123e4cb4f55d9abb464f84f5e69e880a67349daa74b7fe_Powerup 7.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
