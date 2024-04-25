@@ -11022,6 +11022,17 @@
             "=",
             "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Score",
+            "Text",
+            "=",
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
+          ]
         }
       ]
     },
