@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.32015164896804793,
+    "zoomFactor": 0.6424213302496865,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -40,7 +40,7 @@
       "name": "GreenBackground",
       "persistentUuid": "c556b6a2-a507-451e-9afa-07f38613ddca",
       "width": 4384,
-      "x": -614,
+      "x": -621,
       "y": -311,
       "zOrder": 1,
       "numberProperties": [],
@@ -392,8 +392,8 @@
       "name": "GreenSubstanceFloor_JC",
       "persistentUuid": "41f3be1a-b666-437b-a25e-36e8ee5c3115",
       "width": 4380,
-      "x": -602,
-      "y": 676,
+      "x": -657,
+      "y": 694,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -851,37 +851,6 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "UI Layer",
-      "name": "Score",
-      "persistentUuid": "e7dbafe6-7352-4b5e-8f99-474301707483",
-      "width": 0,
-      "x": 124,
-      "y": 105,
-      "zOrder": 68,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 117,
-      "layer": "UI Layer",
-      "name": "eggsMd",
-      "persistentUuid": "615ea79d-97d9-461e-8e09-744e0bf360b0",
-      "width": 246,
-      "x": 46,
-      "y": 79,
-      "zOrder": 69,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
       "layer": "",
       "name": "NewText",
       "persistentUuid": "71bf634d-a4e7-4e28-a072-7d747f2a0c1c",
@@ -947,16 +916,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 22.8125,
-      "keepRatio": true,
-      "layer": "GUI",
+      "depth": 4.70967741935484,
+      "height": 22,
+      "layer": "gui",
       "name": "HealthBarBoxjm",
       "persistentUuid": "1528aa9b-7010-4881-a928-0d6b0eafdb87",
       "width": 146,
       "x": 8,
       "y": 9,
-      "zOrder": 40,
+      "zOrder": 100000000,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -965,15 +933,49 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 15,
+      "height": 14.769230769230766,
       "keepRatio": true,
-      "layer": "GUI",
+      "layer": "gui",
       "name": "HealthBarjm",
       "persistentUuid": "f7230892-253c-46ea-9555-1d7d57525db8",
-      "width": 130.00000000000003,
+      "width": 128,
       "x": 16,
       "y": 13,
-      "zOrder": 100,
+      "zOrder": 1233977344,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "keepRatio": true,
+      "layer": "gui",
+      "name": "Score",
+      "persistentUuid": "10e66fd9-ee53-4903-9215-5923d7813da8",
+      "width": 92,
+      "x": 72,
+      "y": 62,
+      "zOrder": 1233977346,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 136,
+      "keepRatio": true,
+      "layer": "gui",
+      "name": "eggsMd",
+      "persistentUuid": "824301fe-99fd-4263-8533-40006ee93586",
+      "width": 191,
+      "x": 4,
+      "y": 33,
+      "zOrder": 1233977347,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2327,11 +2329,32 @@
             "value": "MettreXY"
           },
           "parameters": [
-            "DinoVitajm",
+            "DinoVita9000",
             "=",
             "87",
             "=",
             "453"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2362,6 +2385,12 @@
             "=",
             "\"Idle\""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -2370,9 +2399,20 @@
             "value": "ModVarGlobal"
           },
           "parameters": [
-            "healthjm",
+            "overalhp",
             "-",
             "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2392,6 +2432,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -2400,9 +2446,20 @@
             "value": "ModVarGlobal"
           },
           "parameters": [
-            "healthjm",
+            "overalhp",
             "-",
             "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2441,6 +2498,27 @@
             "win",
             "+",
             "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "VariableScoreMd",
+            "+",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Score",
+            "Text",
+            "=",
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
           ]
         }
       ]
@@ -2695,6 +2773,64 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Intojm"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::Width"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "DinoVita9000",
+            "=",
+            "87",
+            "=",
+            "453"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -2724,6 +2860,39 @@
           "width": 0
         }
       ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "gui",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",

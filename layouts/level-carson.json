@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5653158055126322,
+    "zoomFactor": 1.2530387740589861,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1249,6 +1249,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -1397,18 +1403,6 @@
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"ending scene\"",
-            ""
-          ]
-        }
-      ],
       "actions": []
     },
     {
@@ -1445,7 +1439,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "Projectile",
             "",
             "",
@@ -1491,7 +1485,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVita",
+            "DinoVita3",
             "HealthKit",
             "",
             "",

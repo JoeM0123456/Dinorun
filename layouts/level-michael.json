@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7370816317994058,
+    "zoomFactor": 0.5290357402156862,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -225,8 +225,8 @@
       "name": "TilesetPiece55Md",
       "persistentUuid": "056bec82-f048-474b-8c93-876e219696dd",
       "width": 22678,
-      "x": -229,
-      "y": -873,
+      "x": -223,
+      "y": -870,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -1644,6 +1644,40 @@
       "x": 14533,
       "y": -98,
       "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 22,
+      "keepRatio": true,
+      "layer": "UI Layer MD",
+      "name": "HealthBarBoxjm",
+      "persistentUuid": "4c0d436e-b79d-484f-9be0-ae779417ce68",
+      "width": 146,
+      "x": 4,
+      "y": 13,
+      "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 14.769230769230768,
+      "keepRatio": true,
+      "layer": "UI Layer MD",
+      "name": "HealthBarjm",
+      "persistentUuid": "118f5153-2d28-4ff7-8853-fee3ebbc1f0d",
+      "width": 128,
+      "x": 13,
+      "y": 17,
+      "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -11190,9 +11224,10 @@
             "value": "TextContainerCapability::TextContainerBehavior::SetValue"
           },
           "parameters": [
-            "",
-            "\"level michael\"",
-            ""
+            "Score",
+            "Text",
+            "=",
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))"
           ]
         },
         {
@@ -11293,7 +11328,7 @@
           },
           "parameters": [
             "DinoVita",
-            "IndustrialSpikes",
+            "IndustrialSpikesMd",
             "",
             "",
             ""
@@ -11339,7 +11374,7 @@
           },
           "parameters": [
             "DinoVita",
-            "LaserSpikes",
+            "LaserSpikesMd",
             "",
             "",
             ""
@@ -11385,7 +11420,7 @@
           },
           "parameters": [
             "DinoVita",
-            "Laser",
+            "LaserMd",
             "",
             "",
             ""
@@ -11431,7 +11466,7 @@
           },
           "parameters": [
             "DinoVita",
-            "Saw",
+            "SawMd",
             "",
             "",
             ""
