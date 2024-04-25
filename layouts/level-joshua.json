@@ -392,8 +392,8 @@
       "name": "GreenSubstanceFloor_JC",
       "persistentUuid": "41f3be1a-b666-437b-a25e-36e8ee5c3115",
       "width": 4380,
-      "x": -602,
-      "y": 676,
+      "x": -613,
+      "y": 597,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -552,8 +552,8 @@
       "name": "GreenSubstanceCeiling",
       "persistentUuid": "f6012b6f-6575-4f49-98c9-1649e4a93286",
       "width": 1455,
-      "x": 73,
-      "y": -53,
+      "x": 68,
+      "y": -54,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -632,8 +632,8 @@
       "name": "IndustrialPlatform2",
       "persistentUuid": "90b16b30-4a73-452f-9fc8-bd8e4786220b",
       "width": 720,
-      "x": -649,
-      "y": -419,
+      "x": -644,
+      "y": -412,
       "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
@@ -940,6 +940,40 @@
       "x": 1737,
       "y": -193,
       "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 22.8125,
+      "keepRatio": true,
+      "layer": "GUI",
+      "name": "HealthBarBoxjm",
+      "persistentUuid": "1528aa9b-7010-4881-a928-0d6b0eafdb87",
+      "width": 146,
+      "x": 8,
+      "y": 9,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 15,
+      "keepRatio": true,
+      "layer": "GUI",
+      "name": "HealthBarjm",
+      "persistentUuid": "f7230892-253c-46ea-9555-1d7d57525db8",
+      "width": 130.00000000000003,
+      "x": 16,
+      "y": 13,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2103,6 +2137,17 @@
             "=",
             "\"Activate\""
           ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
         }
       ]
     },
@@ -2282,37 +2327,13 @@
             "value": "MettreXY"
           },
           "parameters": [
-            "DinoVita",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "folded": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "DinoVita9000",
-            "LaserSpikes",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::Name"
-          },
-          "parameters": [
-            "LaserSpikes",
-            "Animation",
+            "Score",
+            "Text",
             "=",
-            "\"Idle\""
+            "\"x\" + ToString(GlobalVariable(VariableScoreMd))=",
+            "87",
+            "=",
+            "453"
           ]
         }
       ],
@@ -2322,9 +2343,23 @@
             "value": "ModVarGlobal"
           },
           "parameters": [
-            "healthjm",
-            "-",
-            "2"
+            "VariableScoreMd",
+            "+",
+            "1"
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2344,6 +2379,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -2352,9 +2393,20 @@
             "value": "ModVarGlobal"
           },
           "parameters": [
-            "healthjm",
+            "overalhp",
             "-",
             "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2432,6 +2484,57 @@
           "parameters": [
             "SecurityFence",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::Width"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "DinoVita",
+            "=",
+            "87",
+            "=",
+            "453"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
           ]
         }
       ]
@@ -2651,13 +2754,87 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "LaserSpikes",
-            "Animation",
-            "=",
-            "\"Deactivate\""
+            "GreenBlock",
+            ""
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "GreenDoorTop",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"level carson\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "DinoVita",
+            "HealthKit",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "clamp(GlobalVariable(overalhp)/GlobalVariable(maxover)*128,0,128)"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "+",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Intojm"
     }
   ],
   "layers": [

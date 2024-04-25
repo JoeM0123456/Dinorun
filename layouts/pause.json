@@ -1,13 +1,13 @@
 {
-  "b": 0,
+  "b": 133,
   "disableInputWhenNotFocused": true,
-  "mangledName": "ending_32scene",
-  "name": "ending scene",
-  "r": 7,
+  "mangledName": "pause",
+  "name": "pause",
+  "r": 134,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 0,
+  "v": 136,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -26,15 +26,16 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 48,
+      "height": 119,
       "keepRatio": true,
       "layer": "",
-      "name": "NewText",
-      "persistentUuid": "c9fa0f93-efe1-4455-b773-919f229289dc",
-      "width": 0,
-      "x": 474,
-      "y": 92,
+      "name": "New_Game_",
+      "persistentUuid": "b2894e2c-fecc-4e27-a381-e33047dff4e8",
+      "width": 230,
+      "x": 488,
+      "y": 223,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -43,101 +44,50 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 179,
-      "keepRatio": true,
-      "layer": "",
-      "name": "eggsJm3",
-      "persistentUuid": "11f86085-38c5-4320-9f6a-d3d20a0c3362",
-      "width": 286,
-      "x": 1032,
-      "y": 419,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 170,
-      "keepRatio": true,
-      "layer": "",
-      "name": "eggsJm3",
-      "persistentUuid": "6b93b77f-d156-4552-9bf8-a45bc6b9c937",
-      "width": 277,
-      "x": 156,
-      "y": 425,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 159,
-      "keepRatio": true,
-      "layer": "",
-      "name": "IndustrialPlatform",
-      "persistentUuid": "f0df8cf1-02ca-49bf-a3ae-d2932d7b141e",
-      "width": 1433,
-      "x": -57,
-      "y": 560,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 166,
-      "keepRatio": true,
-      "layer": "",
-      "name": "DinoVita2",
-      "persistentUuid": "83b55be9-0391-481a-b350-de9aa0d1193b",
-      "width": 201,
-      "x": 887,
-      "y": 416,
-      "zOrder": 7,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 230,
-      "keepRatio": true,
-      "layer": "",
-      "name": "DinoVita2",
-      "persistentUuid": "d76f93ec-7adf-4390-ab87-2d2f0eb3c824",
-      "width": 211,
-      "x": -5,
-      "y": 365,
-      "zOrder": 8,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 48,
-      "height": 140,
+      "height": 95,
       "keepRatio": true,
       "layer": "",
-      "name": "GreyButton",
-      "persistentUuid": "833310a0-ac9a-49ad-aedd-3fb5c386ba0d",
-      "width": 272,
-      "x": 506,
-      "y": 306,
-      "zOrder": 9,
+      "name": "Resume_",
+      "persistentUuid": "e9930c34-59ef-4f37-b971-4d366ab56f5c",
+      "width": 208,
+      "x": 504,
+      "y": 351,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1392,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GreenBackground",
+      "persistentUuid": "ce65365c-089e-463b-864c-adca9ff5e929",
+      "width": 2176,
+      "x": -475,
+      "y": -192,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 181,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "b3436d93-528f-44fb-aafb-39524092173b",
+      "width": 226,
+      "x": 520,
+      "y": 174,
+      "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -145,49 +95,91 @@
   ],
   "objects": [
     {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "NewText",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
+      "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
+      "name": "New_Game_",
+      "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Dino Run \nYou Win!!!",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 80,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      },
       "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Dino Run \nYou Win!!!",
-        "font": "",
-        "textAlignment": "left",
-        "characterSize": 80,
-        "color": "255;255;255"
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 10,
+        "BottomPadding": 32,
+        "TopPadding": 16,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Hovered.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Idle": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Idle.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "New Game ",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "New Game ",
+            "font": "",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Pressed.png",
+          "tiled": true,
+          "topMargin": 32,
+          "width": 256
+        }
       }
     },
     {
       "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-      "name": "GreyButton",
+      "name": "Resume_",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -226,10 +218,10 @@
           "italic": false,
           "smoothed": true,
           "underlined": false,
-          "string": "New Game ",
+          "string": "Resume ",
           "font": "",
           "textAlignment": "center",
-          "characterSize": 60,
+          "characterSize": 40,
           "color": {
             "b": 79,
             "g": 72,
@@ -249,10 +241,10 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "New Game ",
+            "text": "Resume ",
             "font": "",
             "textAlignment": "center",
-            "characterSize": 60,
+            "characterSize": 40,
             "color": "72;72;79"
           }
         },
@@ -267,32 +259,64 @@
           "width": 256
         }
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Dino Run",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Dino Run",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
+        "objectName": "New_Game_"
+      },
+      {
         "objectName": "NewText"
       },
       {
-        "objectName": "GreyButton"
+        "objectName": "Resume_"
       }
     ]
   },
   "events": [
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Link",
-      "include": {
-        "includeConfig": 0
-      },
-      "target": "Intojm"
-    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
@@ -301,7 +325,7 @@
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
-            "GreyButton",
+            "New_Game_",
             ""
           ]
         }
@@ -313,10 +337,62 @@
           },
           "parameters": [
             "",
-            "\"Intojm\""
+            "\"startjm\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "HealthBarjm",
+            "Resizable",
+            "=",
+            "128"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "overalhp",
+            "=",
+            "25"
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "Resume_",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PopScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Intojm"
     }
   ],
   "layers": [
@@ -327,7 +403,7 @@
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 3,
-      "cameraType": "perspective",
+      "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
