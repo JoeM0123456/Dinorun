@@ -2629,7 +2629,7 @@
             "value": "PlatformBehavior::IsOnLadder"
           },
           "parameters": [
-            "DinoVitajm",
+            "DinoVita9000",
             "PlatformerObject"
           ]
         },
@@ -2863,7 +2863,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "DinoVitajm",
+            "DinoVita9000",
             "HealthKit",
             "",
             "",
