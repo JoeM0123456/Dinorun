@@ -1,0 +1,12 @@
+{
+  "name": "Dino Game",
+  "short_name": "Dino Game",
+  "id": "com.example.gamename",
+  "description": "The T-Rex has escaped now you have to find your eggs and get away! Good Luck!",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
